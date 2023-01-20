@@ -1,0 +1,20 @@
+title: Contrepoint
+parts:
+  - title: Ressources pédagogiques
+    items:
+      - title: Principes de contrepoint (Alan Belkin)
+        url: http://alanbelkinmusic.com/site/fr/index.php/le-contrepoint/
+      - title: "Cours 22: Conrepoint (blog Polyphonies)"
+        url: http://www.polyphonies.eu/lemensuel/COURS-22-CONTREPOINT.html
+  - title: Sources historiques
+    items:
+      - title: Les sources des traités de contrepoint (1475-1800) (CESR)
+        url: http://josquin.cesr.univ-tours.fr/lusitano/contrepoint/sources.html
+      - title: Série d'articles sur l'évolution du contrepoint
+        links:
+          - title: "Évolution du contrepoint (partie I) : de l'organum au motet médiéval"
+            url: http://www.polyphonies.eu/lemensuel/Evolution-du-contrepoint-partie-I.html
+          - title: "Évolution du contrepoint (partie II) : de l'isorythmie au canon"
+            url: http://www.polyphonies.eu/lemensuel/Evolution-du-contrepoint-partie-II.html
+          - title: "Évolution du contrepoint (partie III) : L'école franco-flamande et l'émergence du sentiment harmonique"
+            url: http://www.polyphonies.eu/lemensuel/Evolution-du-contrepoint-partie.html

@@ -1,0 +1,477 @@
+/* FONTS */
+$ff-text: 'Open Sans Condensed', sans-serif;
+$ff-h: 'Wire One', sans-serif;
+$f-nav: 'Wire One', sans-serif;
+$f-mono: 'Space Mono', monospace;
+$list-symbol: '⬣ ';
+$textshadow-h: 0 0 10px #0FF, 0 0 15px #0FF;
+$f-rub: 'Wire One', sans-serif;
+$f-aside: 'Open Sans Condensed', sans-serif;
+
+/* COLOURS */
+$c-bg: #151515; /* #23282E */
+$c-text: #d8d8d8; /* #BEBEBE */
+$c-h: #8ff;
+$c-a: #0bb;
+$c-ahov: #1BE2E0;
+
+/* SIZES */
+$height-sky: 300px;
+
+/* Fix main font size */
+.article > p, .article > ul > li, .article > ol > li, .side-block > ul > li > a, .article pre {
+  font-size: 1.25em;
+}
+
+/* KEYFRAMES */
+
+/*
+http://codepen.io/NobodyRocks/pen/qzfoc
+http://enjoycss.com/gallery/text_effects/39#text
+http://cssdeck.com/labs/neon-signs-css3
+*/
+
+/* For nav */
+@keyframes neon_nav {
+  from {
+    text-shadow:
+      0 0 5px #0ff,
+      0 0 10px #0ff,
+      0 0 20px #0ff,
+      0 0 30px #0ff
+      ;
+  }
+  to {
+    text-shadow:
+      0 0 5px #0ff,
+      0 0 10px #0ff,
+      0 0 20px #0ff,
+      0 0 30px #fff
+      ;
+  }
+}
+
+/* a */
+@keyframes neon_link {
+  from {
+    text-shadow: 0 0 10px #fff,
+    0 0 20px #0ff,
+    0 0 30px #0ff
+  }
+  to {
+    text-shadow: 0 0 2px #999,
+    0 0 4px #099,
+    0 0 6px #099
+  }
+}
+
+/* ÉLÉMENTS DE BASE */
+
+a {
+  color: $c-a;
+  text-decoration: none;
+  transition: text-shadow 0.25s ease;
+  outline: none;
+  &:hover {
+    color: $c-ahov;
+    animation: neon_link 1.5s ease-in-out infinite alternate;
+  }
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 3px solid #000;
+  margin: 0;
+  padding: 0;
+}
+
+blockquote:first-child {
+  margin-top: 0;
+}
+
+canvas {
+  vertical-align: bottom; /* because <canvas> is inline */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+img {
+  display: block;
+}
+
+ol, ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+p:first-child, ol:first-child, ul:first-child {
+  margin-top: 0;
+}
+
+ul {
+  li {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* LAYOUT */
+
+html {
+  margin: 0 0 150px 0;
+  padding: 0;
+
+  * {
+    cursor: default;
+  }
+}
+
+body {
+  background-color: $c-bg;
+  color: $c-text;
+  font-family: $ff-text, sans-serif;
+  line-height: 1.25;
+  margin: 0;
+  padding: 0;
+
+  #header {
+    background-color: black;
+    height: $height-sky;
+    width: 100%;
+  }
+
+  #nav {
+    background-color: black;
+    border-bottom: 1px solid $c-ahov;
+    text-align: center;
+
+    a {
+      font-family: $f-nav;
+      font-size: 200%;
+      padding: 0.25em 0.5em;
+      text-decoration: none;
+      text-transform: uppercase;
+      white-space: nowrap;
+
+      &.on, &:hover {
+        animation: neon_nav 0.5s ease-in-out infinite alternate;
+        color: #bff;
+      }
+    }
+  }
+
+  nav.breadcrumbs {
+    padding: 0.5em;
+    text-align: center;
+    width: 100%;
+  }
+
+  #container {
+    max-width: 64em;
+    margin: 0 auto;
+    padding: 0;
+
+    .main {
+      margin: 0;
+      padding: 1em 0 100px 1em;
+
+      /* http://stackoverflow.com/questions/3203252/unicode-character-as-bullet-for-list-item-in-css */
+      ul {
+        li {
+          margin-bottom: 0.25em;
+        }
+      }
+    }
+  }
+
+  /* LARGE SCREEN */
+
+  @media (min-width: 55em) {
+    .main {
+      float: left;
+      width: 65%;
+    }
+
+    .aside {
+      float: right;
+      width: 30%;
+    }
+  }
+}
+
+/* CONTENU D'UN ARTICLE */
+
+.article {
+
+  h1, h2, h3, h4, h5 {
+    color: $c-h;
+    font-family: $ff-h;
+    text-shadow: $textshadow-h;
+  }
+
+  h1 {
+    font-size: 400%;
+    margin: 0;
+    padding: 1em 0 1em 0;
+    text-align: center;
+    text-transform: uppercase;
+    a {
+      text-decoration: none
+    }
+  }
+
+  h2 {
+    border-top: 1px solid $c-h;
+    border-bottom: 1px solid $c-h;
+    font-family: $ff-h;
+    font-size: 300%;
+    margin: 1.5em 0 1em 0;
+    padding: 10px 0;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 200%;
+    letter-spacing: 2px;
+    margin: 2em 0 1em 0;
+    padding: 0.25em 0;
+    text-transform: uppercase;
+  }
+
+  h4 {
+    font-size: 150%;
+    letter-spacing: 2px;
+  }
+
+  h5 {
+    font-size: 100%;
+    letter-spacing: 2px;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  p img:first-child {
+    margin-top: 0;
+  }
+
+  hr {
+    display: none;
+  }
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  p {
+    hyphens: auto;
+    margin: 0.5em 0;
+    text-align: justify;
+  }
+
+  pre {
+    margin: 1em 0 1em 3em;
+  }
+
+  table {
+    margin: 2em auto;
+  }
+
+  th {
+    padding: 1em;
+  }
+
+  td {
+    padding: 0 0.5em;
+  }
+
+  table, td, th {
+    border: 1px solid $c-h;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+  th {
+    color: $c-a;
+    font-family: $ff-h;
+  }
+
+  .coolpreset {
+    color: $c-ahov;
+    font-weight: bold;
+  }
+
+  ol {
+    list-style: none;
+    margin: 0 0 0 3em;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0 0 0 3em;
+
+    > li:before {
+      content: "⬣";
+      display: inline-block;
+      margin-left: -1em;
+      width: 1em !important;
+    }
+  }
+}
+
+/* NAVIGATION */
+
+.sub-nav {
+  display: none;
+}
+
+ul.articleslist {
+  list-style: none;
+}
+
+.article.in-listing {
+  text-shadow: none;
+
+  border: 1px solid transparent;
+  margin-bottom: 0 !important;
+  transition: border 0.5s ease-out, background-color 0.5s ease-out;
+
+  &:hover {
+    background-color: $c-bg * 1.25;
+    border: 1px solid $c-ahov;
+    * {
+      transition: color 0.5s ease-out;
+    }
+  }
+
+  a {
+    animation: none;
+  }
+
+  h1 {
+    color: $c-h;
+    font-family: $ff-h;
+    font-size: 175%;
+    margin: 0;
+    padding: 0 0 0 10px;
+    text-align: left;
+    text-shadow: $textshadow-h;
+    text-transform: none;
+  }
+
+  .time {
+    color: transparent;
+    font-size: 105%;
+    margin: 0;
+    padding: 0 2px 2px 0;
+    text-align: right;
+  }
+
+  h1:hover ~ .time, .time:hover {
+    color: #555;
+  }
+}
+
+.article {
+  .s {
+    border-top: 1px dashed $c-ahov;
+    margin: 3em 0;
+    width: 100%;
+  }
+
+  ol li {
+
+  }
+
+  ol.tree {
+    list-style: none;
+    letter-spacing: 1px;
+    margin: 0 0 0 1em;
+
+    ol {
+      margin: 0 0 0 1.5em;
+    }
+  }
+
+  ol.tree > li {
+    font-family: $ff-h;
+    font-size: 169%
+  }
+
+  /*ol.tree > li:before, ol.tree > li > ol > li:before {
+    content: "⬣";
+  }*/
+
+  ol.tree > li > ol > li {
+    font-family: $ff-h;
+    font-size: 90%;
+  }
+}
+
+/* SIDE BAR */
+
+.aside {
+  margin-right: 1em;
+
+  .side-block {
+    margin: 4em 0 0 0;
+    text-transform: lowercase;
+
+    a {
+      font-size: 105%;
+    }
+
+    h2 {
+      color: $c-h;
+      font-family: $f-rub;
+      font-size: 250%;
+      font-weight: normal;
+      margin: 0 0 0.25em 0;
+      padding: 0;
+      text-align: right;
+      text-shadow: $textshadow-h;
+    }
+
+    ul {
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+      text-align: right;
+
+      li {
+        display: inline-block;
+        font-family: $f-aside;
+        margin-left: -4px;
+
+        a {
+          display: inline-block;
+          margin: 0;
+          padding: 0 0 0 0.5em;
+          transition: text-shadow 0.25s ease;
+
+          &.on, &:hover {
+            animation: neon_link 1.5s ease-in-out infinite alternate;
+          }
+        }
+      }
+    }
+  }
+
+  .favorite-sites {
+    ul {
+      display: block;
+      text-align: right;
+    }
+  }
+}

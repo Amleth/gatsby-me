@@ -1,0 +1,29 @@
+title: Computer Assisted Composition
+tags:
+  - music
+  - composition
+parts:
+  - title: Theory
+    items:
+      - title:  MusicAlgo — Petite introduction pratique aux musiques génératives et algorithmiques
+        url: http://musiquealgorithmique.fr/
+  - title: Softwares
+    items:
+      - url: https://github.com/juniorxsound/awesome-computer-music
+      - title: Tonejs
+        url: https://github.com/Tonejs/Tone.js
+        links:
+          - title: MIDI
+            url: https://github.com/Tonejs/Midi
+      - title: PYO
+        links:
+          - title: Many cool examples
+            url: https://github.com/aalex/ubuntu-python-pyo/tree/master/examples
+          - title: Many cool examples
+            url: https://github.com/aalex/ubuntu-python-pyo/tree/master/examples
+      - title: Orca
+        links:
+          - url: https://hundredrabbits.itch.io/orca
+          - url: https://github.com/hundredrabbits/Orca
+          - url: https://www.youtube.com/channel/UCeo2Fo1OidWpT83BT5xmCZw/videos
+          - url: https://www.youtube.com/watch?v=ihFidWCWu9Y

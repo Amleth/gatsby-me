@@ -1,0 +1,33 @@
+title: Guitar
+tags:
+  - instruments
+parts:
+  - title: Custom
+    items:
+      - title: Pickups wiring
+        url: https://www.guitariste.com/forums/accessoires-et-lutherie,des-pb-de-cablage-d-electronique-posez-vos-questions-ici,240989.html
+      - title: GuitarElectronics.com
+        url: https://guitarelectronics.com/
+      - title: Guns and Guitars
+        url: https://www.youtube.com/channel/UCnfXz2OeVJHYyebACjj4ZGA/videos
+  - title: FX
+    items:
+      - url: https://reverb.com/news/6-essential-artifacts-for-doom
+        title: 6 Essential Artifacts for Doom (reverb.com)
+        date: 2014.07.06
+  - title: Guitarists
+    items:
+      - url: https://www.youtube.com/watch?v=djA3ZG3dHj0
+        title: Perfect Guitar Pedal Order with Steve Vai
+        date: 2014.08.14
+  - title: Theory
+    items:
+      - url: https://www.youtube.com/watch?v=dAiZIlQ0g-c
+        title: Dark Guitar Chords - 50 Shapes to Spook Your Listeners
+        date: 2017.09.27
+  - title: Maintenance
+    items:
+      - url: https://www.youtube.com/watch?v=IFoF_aH61zI
+  - title: Amp tech
+    items:
+      url: https://www.youtube.com/watch?v=hgyQ2scnLJY

@@ -1,0 +1,48 @@
+title: IIIF
+parts:
+  - title: The standard
+    items:
+      - title: IIIF Cookbook Recipes
+        url: https://github.com/IIIF/cookbook-recipes/issues
+  - title: People
+    items:
+      - title: Tom Crane
+        url: https://medium.com/@tom.crane
+        links:
+          - title: "Beyond the Viewer: fragments and links in annotation space"
+            date: 2018.06.19
+            url: https://medium.com/digirati-ch/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34
+  - title: Tool
+    items:
+      - title: IIIF Manifest Editor
+        url: https://digital.bodleian.ox.ac.uk/manifest-editor/#/?_k=gal4pc
+      - title: IIIF Image Manipulation Tool — Crop and Re-size Images
+        url: https://jbhoward-dublin.github.io/IIIF-imageManipulation/index.html?imageID=https://iiif.ucd.ie/loris/ivrla:10408
+      - title: Mirador Image Cropper
+        url: http://beta.biblissima.fr/en/mirador?key=Vg5KDD1GMmFkADxkN2OE&version=4
+  - title: IIIF & music
+    items:
+      - title: Timeliner
+        links:
+        - title: Github
+          url: https://github.com/digirati-co-uk/timeliner
+        - url: https://iiif.io/event/2019/goettingen/program/28/
+          title: "Timeliner: a Music teaching and learning use case for IIIF"
+  - title: IIIF & text editing
+    items:
+      - title: IIIF For Documentary Editing Using FromThePage
+        url: https://www.youtube.com/watch?v=92Blut3l2ds
+  - title: Viewers
+    items:
+      - title: Mirador
+        links:
+          - title: Mirador plugins
+            url: https://github.com/dbmdz/mirador-plugins
+  - title: Learn
+    items:
+      - url: https://doc.biblissima.fr/introduction-iiif
+        author: Régis Robineau
+  - title: Other stuff
+    items:
+      - url: http://storiiies.cogapp.com/
+        title: Storiiies

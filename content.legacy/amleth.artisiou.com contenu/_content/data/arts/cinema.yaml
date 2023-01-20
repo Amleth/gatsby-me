@@ -1,0 +1,44 @@
+title: Cinema
+tags:
+  - art
+parts:
+  - title: Experimental
+    items:
+      - title: Jordan Belson
+        yt: https://www.youtube.com/results?search_query=Jordan+Belson
+      - title: James Whitney
+        yt: https://www.youtube.com/results?search_query=james+whitney
+      - title: Lillian Schwartz
+        links:
+          - title: Lillian F. Schwartz
+            url: http://lillian.com
+  - title: Films de genre
+    items:
+      - title: Revok
+        url: https://revok.com/
+      - title: "Rockyrama Vidéo Club : les 101 meilleurs films à regarder un samedi soir"
+        url: http://mookoflove.netsan.fr/Rockyrama/Rockyrama-Vid%c3%a9o-Club-les-101-meilleurs-films-%c3%a0-regarder-un-samedi-soir/2200
+  - title: Réalisateurs
+    items:
+      - title: Eugene Green
+        links:
+          - url: https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/eugene-green-un-cineaste-spirituel
+  - title: Mon top
+    items:
+      - title: Brazil
+        author: Terry Gilliam
+      - title: Four Lions
+      - title: In the Loop
+      - title: Rubber
+        author: Quentin Dupieux
+        url: http://www.imdb.com/title/tt1612774/
+      - title: Wrong Cops
+        author: Quentin Dupieux
+        url: http://www.imdb.com/title/tt2166616/
+      - title: Forbidden Planet
+        author: Fred M. Wilcox
+        date: 1956
+      - title: God Bless America
+      - title: Little Miss Sunshine
+      - title: The Russian Woodpecker
+        url: https://www.google.com/search?q=The+Russian+Woodpecker

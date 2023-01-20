@@ -1,0 +1,9 @@
+    <div class="calendar side-block odd">
+        <h2><a href="/calendar">Upcoming Events</a></h2>
+    
+                                    <p class="sorry">
+                    Nothing coming up.<br>
+                    Check back soon.
+                </p>
+                    
+    </div>

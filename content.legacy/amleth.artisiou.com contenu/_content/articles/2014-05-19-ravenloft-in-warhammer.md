@@ -1,0 +1,82 @@
+---
+title: "Adapter Ravenloft à Warhammer ?"
+tags:
+  - jdr
+  - dnd
+  - warhammer
+---
+
+## Le gothique
+
+### Le gothique et Warhammer
+
+Warhammer est un jeu où la dimension gothique est très présente (du moins dans la v1, la ligne éditoriale ayant perdu en subtilité au fil des versions suivantes). Dans les scénarios, on croise régulièrement des savants fous faisant des expérimentations malsaines sur la chair, des châteaux abandonnés où rôde un mal indicible, des âmes torturées par leurs pêchés passés, des vampires (quel excellent supplément que *Les maîtres de la nuit* pour la v2...), des simili-gitans (les Striganis), des individus à l'*hybris* démesurée passant des pactes avec de sombres entités... Pour autant, la dimension gothique est rarement la tonalité dominante, car Warhammer est aussi un jeu où les questions politiques et civlisationnelles sont omniprésentes. Des thématiques directement warhammeriennes telles que le complot occulte d'un groupe d'individus souhaitant la ruine des sociétés établies, le conflit entre nations, la lutte armée explicite contre un ennemi physiquement menaçant ou encore la quête d'un savoir magique rationalisable s'appuient sur des super-structures socio-politiques et des savoirs techniques et scientifiques collectivement construits dont l'évocation écrase le rapport plus strictement individuel entre le sujet et ses passions, entre le sujet et le mystère-avec-un-grand-M, supposé par la littérature gothique. Dans un scénario Warhammer, le gothique est ainsi souvent un élément transitoire destiné à construire des ambiances spécifiques et rarement une source dramatique structurelle (la raison d'être des aventures). Remarquons qu'à ce titre, en tant qu'il entremêle perpétuellement situations d'effroi individuelle et méga-complots, Warhammer ressemble beaucoup à la construction dramatique de la série X-Files. Après avoir établi que les tropes gothiques se mariaient bien avec l'esprit de l'univers Warhammer, les amateurs du genre pourraient souhaiter une articulation plus organique de leurs constituants fondamentaux.
+
+Ma contribution sur ce point, qui s'incarne dans cet article, consiste a proposer des pistes d'adaptation du cadre de campagne Ravenloft aux spécificités du monde de Warhammer. 
+
+### Ravenloft : l'essence même du gothique en JDR ?
+
+Ravenloft est l'incarnation d'une volonté éditoriale du début des années 80 de renouveler D&D en proposant un *setting* d'horreur gothique "traditionnelle" (cherchez "*gothic tropes*" sur un moteur de recherche pour avoir une idée des thèmes et des références littéraires que ceci implique). C'est à mon sens (avec *Planescape*), la chose la plus géniale qui soit arrivée à ce jeu souvent insupportable qu'est D&D.
+
+Ravenloft est, dans la terminologie D&Dienne, un demi-plan ; plus précisément, c'est le demi-plan de l'Effroi (rappelons que D&D est un multivers, dans lequel cohabitent plusieurs plans d'existence). Le demi-plan de l'Effroi trouve sa genèse dans un crime horrible commis par un certain Strahd von Zarovich (les détails de ce crime hautement romantique sont aisés à trouver sur le Web), à la suite duquel des "Sombres Puissances" (nous en parlerons plus loin) ont créé un plan d'existence destiné à le punir éternellement. Le châtiment de Strahd pris, entre autres, les formes suivantes :
+
+* Strahd fut emprisonné dans un domaine, sans possibilité aucune d'en sortir.
+* Strahd devint un vampire, d'acception purement stokerienne. Il conclut même un pacte avec des bohémiens :) (je reviens sur leur cas plus loin).
+* En plus d'être emprisonné, Strahd est perpétuellement torturé par les "Sombres Puissances", qui le confrontent régulièrement à un sosie de la femme qu'il aimait (et ne voulait pas de lui...) et qui mourrut dans des circonstances tragiques. Cette torture d'une pure veine romantique/gothique est absolument géniale pour former la psychologie complexe d'un arch-ennemy de JDR.
+
+Succulent, n'est-ce pas ? Le demi-plan de l'Effroi jouit d'une chronologie officielle s'étalant sur plus de 700 ans durant lesquelles plusieurs domaines se sont ainsi créés pour servir de prisons à des individus ayant commis les pires exactions. Ces grand-e-s pêcheurs et pécheresses sont appellé-e-s *Dark lords*. Plusieurs caractéristiques Mais au-delà des tropes gothiques évoqués *supra*, qu'est-ce exactement que le demi-plan de l'Efrroi et ses domaines ?
+
+### Le demi-plan de l'Effroi et ses domaines
+
+Un domaine possède les caractéristiques informelles suivantes :
+
+* C'est une région géographique à la topologie stable. Dans le cas de Strahd, son domaine - la Barovie - inclut : son château (le château Ravenloft, qui a donc donné son nom à la gamme), quelques forêts, quelques vallées, quelques villages, etc.
+* Sa population éventuelle possède généralement un sentiment d'appartenance à la même nation à peu près net. Commes les nations du monde réel, les domaines du demi-plan de l'Effroi se font la guerre, font des alliances, etc.
+* Un domaine est gouverné par une sorte de souverain classique, qui ne gouverne en fait qu'en apparence.
+* Le *Dark lord* d'un domaine jouit d'un pouvoir absolu sur tout ce qui s'y, et peut notamment décider d'en fermer magiquement les frontières. La thématique de l'emprisonnement est centrale dans la gamme Ravenloft.
+* Les niveaux technologiques des domaines du demi-plan de l'Effroi vont de l'âge de pierre à la renaissance avancée où la poudre est bien maîtrisée (c'est là une fourchette warhammerienne acceptable).
+* Les domaines sont soit limitrophes d'un ou plusieurs autres domaines (formant ainsi un *cluster*), soit entourés par les Brumes (ce sont alors des *islands of terror*), soit encore complètement inclus dans un autre domaine (*pocket domains*).
+* Les peuples vivant dans les domaines des gammes Ravenloft sont souvent inspirés d'une culture humaine connue (on trouve de tout : allemands, français russes, anglais, japonais, indiens, égyptiens de l'antiquité..., et également des cultures non-humaines : elfes, gnomes, feys...). Ceci permet d'instaurer des ambiances horrifiques spécifiques.
+
+Le demi-plan de l'Effroi est ainsi constitué d'agrégats de domaines, et est délimité par les *Brumes*, manifestation du pouvoir des *Dark Powers*. Les Brumes constituent un intermonde particulièrement chaotique et dangereux : on y entre sans être certain du point de sortie, on y fait des rencontres terrifiantes, on y erre à jamais...
+
+## Éléments centraux de Ravenloft & pistes d'adaptation
+
+### Nature et accès
+
+À la différence de D&D, Warhammer n'est pas un multivers, ce qui impose une réflexion serrée sur le statut pouvant y être accordé au demi-pan de l'Effroi. Examinons quelques hypothèses :
+
+* Le demi-plan de l'Effroi serait une poche dans le Warp, dépendant intégralement des Puissances de la Ruine. Cette option empêcherait toute interaction avec le monde réel (les *ferries* Warp-Vieux Monde ne sont pas légion ;), et renvoie à un parti-pris ludique proche de celui d'un multivers *high-fantasy*, qui ne correspond pas à mes attentes dans le cadre de cet article.
+* Le demi-plan de l'Effroi serait une région géographiquement située sur la planète de Warhammer, où il existe suffisamment de zones chaotiques inexplorées pour que de telles fantaisies existent. Se pose alors la question de l'implication des PJs et de l'intégration difficile dans une trame scénaristique préexistante (pourquoi diable aller là-bas ?). Par ailleurs, l'idée d'un pays géographiquement situé dans un monde ne colle pas du tout avec la poésie inhérente à Ravenloft. Piste rejetée.
+* Le demi-plan de l'Effroi serait une entité physique à la position aléatoire & indéterminable, à la manière de Morrslieb. Ce pourrait ainsi être une île apparaissant aléatoirement sur les océans et mers de la planète, sorte de Triangle des Bermudes dans les Brumes duquel s'abîmeraient des navires de toutes les civilisations humaines et non-humaines navigantes (ceci expliquerait le *patchwork* de cultures que l'on trouve dans Ravenloft). Cette idée impose que les PJs naviguent pour pouvoir s'y perdre, ce qui peut être une contrainte scénaristique trop forte. Mais le contrepoint maritime et brumeux de Morrslieb semble satisfaire à la fois l'esprit du monde de Warhammer et l'esthétique de Ravenloft.
+* Le demi-plan de l'Effroi serait une dimension parallèle au monde réel, sans ancrage géographique, à laquelle on accéderait en se perdant dans les Brumes qui apparaîtraient aléatoirement en certains moments et lieux du monde réel. Une telle option rend possible des scénarios du type "Ne t'éloigne pas trop dans les bois ou les Brumes t'emporteront !" comme du type "Quand apparaissent les Brumes, la frontière entre notre monde et le royaume des feys du chaos s'amoindrit...".
+
+Je pense pour ma part utiliser conjointements les deux dernières propositions :
+
+* *dimension parallèle*, pour être en mesure d'invoquer les Brumes mystérieuses où et quand ça me chante dans ma campagne ;
+* *île errante*, pour que des bâteaux et leur équippage puissent s'échouer sur les rivages des domaines côtiers, ce qui offrirait des rencontres intéressantes aux PJs.
+
+### Les *Dark Powers*
+
+L'identité et les motivations des *Dark Powers* ne sont pas explicitées dans les gammes Ravenloft, ce qui laisse une latitude d'interprétation intéressante (notamment dans le cadre d'un transfert de Ravenloft vers un autre jeu ;). Les singularités des panthéons de Warhammer imposent de bien penser les conditions ayant présidé à la création du demi-plan de l'Effroi (je sais, je n'arrête pas d'employer ce terme D&Dien qui est très inadéquat à Warhammer, mais il est tellement classe...). De prime abord, seuls les dieux majeurs du Chaos et de l'Ordre semblent suffisamment puissants pour être à l'origine d'une chose aussi prodigieusement magique et perverse que le demi-plan de l'Effroi. Les dieux majeurs du Chaos pourraient ainsi avoir remarqué des individus à l'*hybris* particulièrement démesurée, et leur avoir créé des domaines-prison à leur image (éventuellement à la suite d'un pacte). Mais pourquoi voudraient-ils les punir en leur imposant emprisonnement et tourment perpétuels ? Ne voudraient-ils pas, à l'inverse, les recruter comme champions ? Ce paradoxe n'est pas levé dans les gammes Ravenloft, qui vont parfois jusqu'à laisser entendre que les *Dark Powers* seraient d'alignement bon puisqu'elles punissent les individus mauvais... Quoi qu'il en soit, les dieux mauvais et bons des panthéons de Warhammer ne semblent pas disposer d'assez de pouvoir pour créer quelque chose comme une dimension parallèle... Remarquons au passage que l'origine chaotique/loyale peut poser un problème métaphysique : les gammes Ravenloft insistent sur le caractère mauvais des *Dark Lords*, alors que les dieux chaotiques et loyaux de Warhammer ne sont ni mauvais ni bons. Peut-être vaut-il mieux laisser de côté la question du mal, qui plus est assez désuète.
+Une idée plus amusante serait d'impliquer les dieux de la Loi. Se situant entre *gain d'un pouvoir démesuré* et *châtiment perpétuel*, le demi-plan de l'Effroi pourrait être le fruit d'un accord entre les dieux du chaos et les dieux de la Loi, les premiers souhaitant gratifier certains individus à l'*hybris* hors-norme, les seconds souhaitant les punir.
+
+### Les domaines
+
+#### Ravenloft comme concept
+
+Au fil des versions successives, Ravenloft s'est de plus en plus affirmé comme un univers autonome à l'histoire et à la géographie complexe, susceptible d'héberger des campagnes de longue haleine. Dans la première version de la boîte de base (1991), il n'était pas encore réellement question que les PJs soient originaires du demi-plan de l'Effroi. La dernière itération en fait, notamment au travers de la plus qu'excellente série des *Gazetteers, un univers hébergeant un *melting-pot* culturel et racial qui n'est pas sans évoqué celui du monde de Warhammer. Des lieux comme Moussillon, la Sylvanie, Skavenblight, le château Drachenfels ou encore certains coins fantasmés des plus inquiétants du Cathay, de l'Ind, de Naggaroth ou de la Lustrie auraient pu être croisés dans les suppléments Ravenloft. Au surplus, l'histoire des domaines de Ravenloft a fini par trop s'étoffer pour s'articuler facilement avec une campagne qui lui est extérieur.
+
+Pour ces raisons, il apparaît que l'adaptation à Warhammer des domaines officiels de Ravenloft ne présente qu'un intérêt restreint. Ma proposition serait plutôt de considérer Ravenloft comme un concept, plutôt que comme un ensemble de domaines à réutiliser, et donc de créer des domaines d'épouvante *ad-hoc* pour chaque campagne de Warhammer. Cela établi, reprendre un domaine canon peut présenter des opportunités dramatiques intéressantes ; en effet, introduire dans une campagne Bretonnienne un chapitre où les PJs, pris par les Brumes (dont ils ignorent tout), seraient transportés sans s'en rendre compte dans le domaine de Démentlieu (d'inspiration renaissance française décadente), et assister à leur perte de repères progressive, serait, hum, aussi génial que pervers.
+
+####  Nettoyer le Vieux-monde
+
+Le *background* de Warhammer me pose un problème de fond : le monde a fait l'objet de trop d'invasions de monstres/morts-vivants/mutants pour être encore vivable et pour justifier l'excellence du développement technologique, intellectuelle et magique qu'on lui connaît. Mon Warhammer est beaucoup moins centré sur la guerre : aucun pays n'a été dévasté par le Chaos, les hordes de peaux-vertes sont davantage des petites tribues désorganisées, l'humanité n'est pas aux portes de sa destruction tous les matins, il n'y a pas de légions de morts-vivants, etc. Le mystère et le doute sont toujours présents, en fait, mon monde de Warhammer emprunte à l'Europe de la Renaissance (pour le tissu diplomatique passionnant entre les puissances, pour le renouveau des arts, pour le progrès technologique, pour les explorations maritimes, etc.), à château Falkenstein (pour l'intégration pertinente des races non-humaines), à Ars Magica (pour le *gameplay* orienté sociétés secrètes magiques - tous mes PJs sont des magisters) et à X-Files (pour la dimension complot avec des puissances indicibles - ici, chaotiques, et non extra-terrestres - et le fait que le doute subsiste toujours quant aux effroyables mystères).
+
+En tant que concept, Ravenloft me permet dont de nettoyer le Vieux-Monde des choses les la plus extrêmes et caricaturales de ses afflictions (qui lui viennent sans doute de son origine dans le jeu de bataille). Comme dimension parallèle, le demi-plan de l'effroi se fait ainsi le reflet contrapuntique horrifique du monde connu de Warhammer. Il est au monde connu ce que le cauchemar est au rêve, ce que les pires des Ombres sont à Ambre, ce que Port aux Crânes est à Waterdeep, le ghetto des horreurs les plus effroyables.
+
+### Les Vistanis
+
+Figures centrales du demi-plan de l'effroi, les Vistanis sont très nettement inspirés des clichés classiques sur les gitans (roulottes, vêtements colorés, honneur de corse, mépris de tout ce qui n'est pas Vistani, diseuses de bonne aventure, sort de mauvais œil, danses et musiques envoûtantes, élaboration d'amulettes et de philtres magiques, etc.). Mais au-delà de cet emprunt culturel, qui trouve certainement son origine dans le rôle ambigu joué par les bohémien dans le roman de Bram Stocker, les Vistanis ont l'étrange pouvoir de voyager à leur guise dans les Brumes, c'est-à-dire sans tenir compte des *Dark Lords* qui chercheraient à en clore les frontières.
+
+Que faire de ces Vistanis dans un Ravenloft warhammerien ? Si la figure du gitan est désirée, on peut reprendre tels-quels les Vistanis (la référence à Ravenloft devient ainsi explicite), ou bien utiliser le peuple des Striganis, ce qui leur conférerait alors un rôle bien plus intéressant que celui auquel ils sont cantonnés dans le Vieux Monde. Au lieu d'être considérés comme de simple voleurs, les Striganis pourraient ainsi se faire les mystérieux passeurs vers une dimension parallèle... À l'inverse, se débarrasser de l'origine bohémienne ouvre des horizons intéressants pour ce peuple magique doté d'une inexplicable liberté. Pour exemples, une caste de mages renégats adeptes d'Ulgu ayant passé un pacte avec une divinité chaotique et/ou loyale (ce qui expliquerait leur maîtrise des Brumes), une race de parias (potentiellement mutants) dotés de pouvoirs magiques leur permettant de naviguer dans les Brumes (à la manière des *Stalkers* dans la Zone du film de Tarkovsky), etc.

@@ -1,0 +1,28 @@
+title: Dinosaurs
+tags:
+  - fauna
+parts:
+  - title: Art
+    items:
+      - title: Alain Bénéteau
+        url: https://www.google.com/search?q=alain+beneteau
+  - title: Books
+    items:
+      - title: Dinosaur Books (by Mike Taylor)
+        date: 25th October 2003
+        url: www.miketaylor.org.uk/dino/books/index.html
+      - title: The best books on Dinosaurs
+        author: Paul Barrett
+        url: https://fivebooks.com/best-books/paul-barrett-dinosaurs/
+      - title: "Wonderful Life: The Burgess Shale and the Nature of History"
+        url: https://www.google.com/search?client=firefox-b-d&channel=trow&q=Wonderful+Life%3A+The+Burgess+Shale+and+the+Nature+of+History
+      - title: The 10 Best Dinosaur Books of 2019
+        url: https://www.thoughtco.com/best-dinosaur-books-1092478
+  - title: Blogs
+    items:
+      - url: https://hummingdinosaur.wordpress.com/
+        title: Humming Dinosaurs and Nature's Other Small Wonders
+  - title: Data
+    items:
+      - url: https://www.nhm.ac.uk/discover/dino-directory/country/china/gallery.html
+        

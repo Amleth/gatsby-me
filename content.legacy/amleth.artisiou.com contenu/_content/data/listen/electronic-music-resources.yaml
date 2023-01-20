@@ -1,0 +1,65 @@
+title: Electroacoustic Music
+tags:
+  - music
+  - electro
+parts:
+  - title: "Radio"
+    items:
+      - title: Électromania (France Musique)
+        url: http://www.francemusique.fr/emission/electromania
+        note: L'émission n'existe malheureusmeent plus, mais j'ai des archives mp3).
+        author: David Jisse, Christian Zanesi, Christophe Bourseiller
+      - title: Électrain de nuit (France Musique)
+        url: http://www.francemusique.fr/emission/electrain-de-nuit/2014-2015
+        author: David Jisse, Christian Zanesi
+      - title: Des aventures sonores (France Musique)
+        url: http://www.francemusique.fr/emission/aventures-sonores
+        author: Christian Zanési, Bruno Letort
+      - title: Murmure du son
+        url: http://murmuredusonradio.com/
+  - title: "Blogs, video channels, podcasts"
+    items:
+      - title: Encyclopedia of electronic music
+        url: http://pugachov.ru/eem/
+      - title: forestpunk blog
+        url: https://forestpunk.wordpress.com/
+      - title: INA GRM
+        dm: http://www.dailymotion.com/inagrm
+        yt: https://www.youtube.com/channel/UC8k-Gr1yVh0aNTD-lGjZXJA
+      - title: The Echoes
+        url: https://echoesblog.wordpress.com/
+      - title: ENCORE. Musique et médias en Allemagne et ailleurs
+        url: http://smazars.blogspot.fr/
+      - title: The Distillery
+        links:
+          - url: http://sambotstein.com/distillery/
+            title: Website
+          - url: http://www.muffwiggler.com/forum/viewtopic.php?t=115592&start=all&postdays=0&postorder=asc
+            title: Muffwiggler thread
+          - it: https://itunes.apple.com/us/podcast/the-distillery-sam-botstein/id890353945?mt=2
+  - title: "Forums"
+    items:
+      - title: Muffwiggler Artist Discussion section
+        url: http://www.muffwiggler.com/forum/viewforum.php?f=5
+      - title: Classic electronic albums of the 90's
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=69709&start=all&postdays=0&postorder=asc
+      - title: Ce que vous écoutez en ce moment (forum http://www.synthe-modulaire.com)
+        url: http://www.synthe-modulaire.com/t449-ce-que-vous-ecoutez-en-ce-moment
+      - title: Quintessential Modular synthnoise Artists (muffwiggler.com)
+        url: http://www.muffwiggler.com/forum/viewtopic.php?t=95418&start=all&postdays=0&postorder=asc
+      - title: Where to discover new music? (muffwiggler.com)
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=156899&start=all&postdays=0&postorder=asc
+  - title: "Misc"
+    items:
+      - url: https://www.ableton.com/en/blog/sounds-polish-radio-experimental-studio/
+  - title: Festivals & lieux
+    items:
+      - title: Sonic Protest
+        url: http://www.sonicprotest.com/
+        yt: https://www.youtube.com/user/sonicprotestTV/videos
+        flickr: https://www.flickr.com/photos/sonicprotest
+      - title: Le GRM
+        links:
+          - dm: http://www.dailymotion.com/user/inagrm/1
+          - title: ARTE Creative
+            url: http://creative.arte.tv/fr/users/ina-grm

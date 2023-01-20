@@ -1,0 +1,8 @@
+- name: Gatsby
+  description: Static Site Generator
+
+- name: HTML
+  description: Static Website
+
+- name: Node JS
+  description: Server side rendering

@@ -1,0 +1,56 @@
+title: Python
+tags:
+  - programming
+parts:
+  - title: Learn
+    items:
+      - title: Python 3 Module of the Week
+        url: https://pymotw.com/3/
+      - title: The Python Language Reference
+        url: https://docs.python.org/3/reference/index.html
+      - title: Effective Python
+        url: https://effectivepython.com/
+      - title: The Python Standard Library
+        url: https://docs.python.org/3/library/index.html#library-index
+      - title: Real Python Tutorials
+        url: https://realpython.com
+  - title: Specific topics
+    items:
+      - title: The Definitive Guide to Python import Statements
+        url: https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
+        date:
+  - title: Music
+    items:
+      - title: Music software written in Python
+        url: https://wiki.python.org/moin/PythonInMusic
+      - title: Pyo
+        url: https://github.com/belangeo/pyo
+  - title: Visual arts
+    items:
+      - title: OpenCV
+        url: https://opencv.org/
+      - title: MLT Multimedia Framework
+        url: https://www.mltframework.org/
+  - title: Web
+    items:
+      - title: django-rdf-io
+        url: https://github.com/rob-metalinkage/django-rdf-io
+  - title: Books
+    items:
+      - url: https://effectivepython.com/
+  - title: Tools
+    items:
+      - url: http://pythontutor.com/
+  - title: Community
+    items:
+      - title: Top 10 Must-Watch PyCon Talks
+        date: 2018.09.17
+        url: https://realpython.com/must-watch-pycon-talks/#7-discovering-python
+  - title: People
+    items:
+      - title: Alex Martelli
+        links:
+          - title: wiki.python.org page
+            url: https://wiki.python.org/moin/AlexMartelli
+          - title: Stackoverflow page
+            url: https://stackoverflow.com/users/95810/alex-martelli

@@ -1,0 +1,61 @@
+title: Digital Humanities
+parts:
+  - title: Exhibitions
+    items:
+      - title: europeana collections
+        url: https://www.europeana.eu/portal/fr
+      - title: Liste des sites web hébergés par Huma-Num
+        url: https://www.huma-num.fr/annuaire-des-sites-web
+  - title: Institutions
+    items:
+      - title: Sociétés Numériques (Axe de recherche transversal de la MSH Ange Guépin)
+        url: https://sonum.hypotheses.org/
+      - title: Réseau national des Maisons des Sciences de l'Homme
+        links:
+          - url: http://www.msh-reseau.fr/
+          - url: http://www.unicaen.fr/recherche/mrsh/document_numerique
+  - title: Scholarly practices
+    items:
+      - title: 'Workflows: how do researchers do their research? how does collaboration work?'
+        author: David Lewis & Terhi Nurmikko-Fuller
+        date: 6 October 2017
+        url: https://tm.web.ox.ac.uk/blog/workflows-how-do-researchers-do-their-research-how-does-collaboration-work
+      - title: Critique et/ou numérique, le point de vue des études classiques (conférence GREN CRIHN)
+        author: Aurélien Berra
+        date: 2019.05.24
+        url: https://www.youtube.com/watch?v=yVlxtv_Q_0E
+  - title: Researchers
+    items:
+      - title: Karl Pineau
+        url: https://www.google.com/search?q=karl+pineau
+      - title: Francesca Frontini
+        url: https://sites.google.com/site/francescafrontini/Home
+  - title: Articles
+    items:
+      - title: Ce qu’il ne fallait pas rater en 2017 autour des projets en “humanités numériques & GLAM”
+        author: Courtin, Antoine
+        url: https://medium.com/@seeksanusername/ce-quil-ne-fallait-pas-rater-en-2017-autour-des-projets-en-humanit%C3%A9s-num%C3%A9riques-glam-5da5df34217f
+        date: 2017.12.18
+  - title: Projects
+    items:
+      - title: DigiPal
+        url: http://www.digipal.eu/
+      - title: Perseus
+        url: http://perseus.uchicago.edu/
+  - title: Tools
+    items:
+      - url: https://tropy.org/
+      - url: https://dirtdirectory.org/
+      - url: https://pro.europeana.eu/resources/tools-1
+    parts:
+      - title: Edition
+        items:
+          - url: http://evt.labcd.unipi.it/
+  - title: History
+    items:
+      - url: https://pcp-on-web.htwk-leipzig.de/project/#en
+      - url: http://heloise.ish-lyon.cnrs.fr/EADH2018
+      - url: https://groupes.renater.fr/wiki/histoire_numerique/ontologie/workshop_201611
+  - title: FAIR
+    items:
+      - url: https://masa.hypotheses.org/3579

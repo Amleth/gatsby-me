@@ -1,0 +1,207 @@
+title: "Semantic Web"
+tags:
+  - kos
+  - programming
+  - web
+text: Some Semantic Web related cool & useful stuff
+parts:
+  - title: Lessons & Tutorials
+    items:
+      - url: https://www.obitko.com/tutorials/ontologies-semantic-web/semantic-web-architecture.html
+      - url: https://www.w3.org/egov/wiki/Tutorial
+  - title: Programming
+    items:
+      - title: Awesome Semantic Web
+        gh: https://github.com/semantalytics/awesome-semantic-web/blob/master/README.md
+      - title: HyperGraphQL
+        url: https://www.hypergraphql.org/
+      - url: https://www.topquadrant.com/technology/graphql/
+  - title: Articles
+    items:
+      - url: http://www.zdnet.com/article/graph-databases-and-rdf-its-a-family-affair/
+        date: 2017.05.19
+  - title: Blogs
+    items:
+      - title: BibLibre
+        url: https://www.biblibre.com/fr/
+  - title: Meetups
+    items:
+      - title: SemWeb Pro
+        links:
+          - title: Website
+            url: http://semweb.pro/
+          - title: "2016"
+            url: http://semweb.pro/semwebpro-2016-details-pres.html
+      - title: Les rencontres du Web de données
+        url: https://www.meetup.com/fr-FR/paris-web-of-data/
+  - title: Learn
+    items:
+      - url: http://dublincore.org/resources/training/
+      - url: https://www.fun-mooc.fr/courses/course-v1:inria+41002+session03/about
+      - url: http://users.jyu.fi/~olkhriye/ties4520/
+      - url: https://github.com/KarlPineau/cours-donneesculturelles-paris13
+  - title: List of vocabularies
+    items:
+      - url: https://wiki.base22.com/btg/semantic-web-ontologies-and-vocabularies-35487842.html
+      - url: https://lov.linkeddata.es/dataset/lov/
+      - url: http://data.doremus.org/
+  - title: Linked Data
+    items:
+      - url: http://fr.lodlive.it/
+      - url: http://linkeddatabook.com/editions/1.0/
+      - url: https://old.datahub.io/
+  - title: Useful ontologies
+    items:
+      - url: https://dr-shorthair.github.io/ont/project/
+        title: "A project description ontology"
+      - url: https://www.w3.org/TR/dcat-ucr/
+      - url: http://musicontology.com/
+        title: The Music Ontology
+      - url: http://data.doremus.org/ontology/
+      - url: http://isophonics.org/
+      - url: http://www.semanticaudio.ac.uk/resources/?view=ontologies
+      - title: CIDOC-CRM
+        links:
+          - url: www.cidoc-crm.org/
+          - url: https://hal.archives-ouvertes.fr/hal-01578878/document
+          - url: https://www.youtube.com/watch?v=AILB8eUNYgA&list=PL_9ktJ-p1X5MNXVaIIfMIRA8MZZ3SWwUc
+          - url: https://confluence.ontotext.com/display/ResearchSpace/BM+Mapping
+            title: Brtish Museum Mapping
+      - url: https://www.w3.org/TR/vocab-org/
+        title: The Organization Ontology (W3C)
+      - url: http://symogih.org
+        links:
+          - title: Wiki
+            url: https://groupes.renater.fr/wiki/symogih/
+      - url: http://www.sparontologies.net/
+        title: Semantic Publishing and Referencing Ontologies (SPAR) ontologies
+  - title: Useful vocabularies
+    items:
+      - title: Description of a Project (DOAP)
+        links:
+          - gh: https://github.com/ewilderj/doap
+          - wp: https://en.wikipedia.org/wiki/DOAP
+          - url: https://lov.linkeddata.es/dataset/lov/vocabs/doap
+      - url: https://www.w3.org/2011/gld/wiki/Linked_Data_Cookbook
+        title: Linked Data Cookbook
+      - url: http://data.doremus.org/vocabularies/
+      - title: Activity
+        links:
+          - url: https://www.w3.org/TR/activitystreams-vocabulary/
+          - url: https://www.w3.org/TR/activitystreams-core/
+      - title: FOAF
+        url: http://xmlns.com/foaf/spec/
+      - title: PROV-O
+        url: https://www.w3.org/TR/prov-o/
+      - title: SPAR (Semantic Publishing and Referencing Ontologies)
+        url: http://www.sparontologies.net/
+      - title: SKOS/Datasets
+        url: https://www.w3.org/2001/sw/wiki/SKOS/Datasets
+      - title: Les vocabulaires du Ministère de la Culture et de la Communication
+        url: http://data.culture.fr/thesaurus/
+      - title: Best Practices for Publishing Linked Data — Standard Vocabularies
+        url: https://www.w3.org/TR/ld-bp/#VOCABULARIES
+  - title: Datasets
+    items:
+      - url: https://query.wikidata.org/
+      - url: https://www.w3.org/wiki/SparqlEndpoints
+      - url: https://www.w3.org/wiki/TaskForces/CommunityProjects/LinkingOpenData/DataSets
+  - title: Cultural & institutional Data Sets
+    items:
+      - url: http://data.bnf.fr/opendata
+      - url: https://pro.europeana.eu/resources/datasets
+      - url: http://mediasuitedata.clariah.nl/
+      - url: https://publications.europa.eu/en/web/eu-vocabularies
+  - title: People
+    items:
+      - title: Moissinac, Jean-Claude (Telecom-ParisTech)
+        url: https://moissinac.wp.imt.fr/publications/publications-fr/
+      - title: Bermès, Emmanuelle (BNF)
+        url: http://production-scientifique.bnf.fr/CV/bermes-emmanuelle
+      - title: Story, Henry
+        url: https://bblfish.net/
+      - title: Verborgh, Ruben
+        links:
+          - title: Website
+            url: https://rubenverborgh.github.io
+          - title: Web Fundamentals
+            url: https://rubenverborgh.github.io/WebFundamentals/
+      - title: Marie Destandau
+        links:
+          - url: https://www.lri.fr/~mdestandau/index.html
+      - title: Gautier Poupeau
+        links:
+          - url: https://www.google.com/search?q=Gautier+Poupeau
+          - url: https://www.lespetitescases.net/
+  - title: Projects
+    items:
+      - title: LODEX
+        url: https://lodex.inist.fr/
+  - title: Softwares
+    items:
+      - title: Dokieli
+        links:
+          - title: Website
+            url: https://dokie.li/
+          - title: githuub
+            url: https://github.com/linkeddata/dokieli
+      - title: Linked Data Fragments
+        url: https://github.com/LinkedDataFragments
+      - title: Semantic Forms
+        links:
+          - title: github
+            url: https://github.com/jmvanel/semantic_forms
+  - title: W3C
+    items:
+      - title: Best Practice Recipes for Publishing RDF vocabularies
+        date: 2006/01/18
+        url: https://www.w3.org/2001/sw/BestPractices/VM/http-examples/2006-01-18/
+      - title: Cool URIs for the Semantic Web
+        date: 2008/12/03
+        url: https://www.w3.org/TR/cooluris/
+  - title: Groups & consortiums
+    items:
+      - title: Data for History
+        url: http://dataforhistory.org/
+      - title: GDR SemanDiv (sémantique de la biodiversité)
+        url: http://websie.cefe.cnrs.fr/semandiv/
+  - title: Research teams
+    items:
+      - title: SemLIS
+        url: http://www-semlis.irisa.fr/
+  - title: SKOS
+    items:
+      - title: Skosmos
+        url: http://skosmos.org/
+      - title: Quick Guide to Publishing a Thesaurus on the Semantic Web
+        url: https://www.w3.org/TR/swbp-thesaurus-pubguide/
+        date: "2005.05.17"
+      - title: GINCO
+        url: http://www.culture.gouv.fr/Divers/Harmonisation-des-donnees-culturelles/Referentiels/Les-vocabulaires-scientifiques-et-techniques/L-application-GINCO
+        gh: https://github.com/culturecommunication/ginco
+  - title: Usecases
+    items:
+      - url: https://www.springernature.com/gp/researchers/scigraph
+      - title: Link Data for Digital Libraries
+        date: 2013/09/22
+        url: https://www.slideshare.net/jodischneider/tpdl2013-tutorial-linked-data-for-digital-libraries-20131022
+  - title: API
+    items:
+      - title: Les APIs hypermedia expliquées simplement (Antoine Cheron) (DEVOXX)
+        url: https://www.youtube.com/watch?v=Cz-hVKDvIjg
+        date: 2019.05.07
+  - title: Researchers
+    items:
+      - title: Jodi Schneider
+        links:
+          - url: http://jodischneider.com/jodi.html 
+  - title: Journals
+    items:
+      - title: Semantic Web Journal
+        links:
+          - url: http://semantic-web-journal.net/
+          - url: http://semantic-web-journal.net/issues
+            title: Issues
+      - title: Journal of Web Semantics
+        url: https://www.sciencedirect.com/journal/journal-of-web-semantics
+  

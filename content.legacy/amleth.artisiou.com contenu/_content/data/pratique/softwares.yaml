@@ -1,0 +1,42 @@
+title: Softwares
+tags:
+parts:
+  - title: Mac + Windows
+    items:
+      - title: Dukto
+        url: http://www.msec.it/blog/?page_id=11
+  - title: Windows
+    items:
+      - title: babun
+        url: http://babun.github.io/
+      - title: Bandizip
+        url: https://www.bandisoft.com/bandizip/fr/
+      - title: Clink
+        url: https://mridgers.github.io/clink/
+      - title: cmder
+        url: http://cmder.net/
+      - title: FreeFileSync
+        url: http://www.freefilesync.org/
+      - title: Link Shell Extension
+        url: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html
+      - title: Resonic
+        url: https://resonic.at/home
+      - title: VisualStudioUninstaller
+        url: https://github.com/Microsoft/VisualStudioUninstaller
+      - title: 10 Free Audio Converter Software Programs
+        url: https://www.lifewire.com/free-audio-converter-software-programs-2622863
+        date: oct 2016
+  - title: Multimedia
+    items:
+      - url: https://trac.ffmpeg.org/wiki/AudioChannelManipulation
+        title: FFMPEG - Audio Channel Manipulation
+      - title: SOX
+        url: http://sox.sourceforge.net/
+  - title: Éditeurs
+    items:
+      - title: Visual Studio Code
+        items:
+          - url: https://github.com/viatsko/awesome-vscode
+          - url: http://orta.io/vscode-themes/
+          - url: https://vscodethemes.com/
+      

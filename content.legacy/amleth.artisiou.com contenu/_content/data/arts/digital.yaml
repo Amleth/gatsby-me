@@ -1,0 +1,53 @@
+title: Digital art
+tags:
+  - art
+parts:
+  - title: 'Conferences'
+    items:
+      - title: International Conference on Computational Intelligence in Music, Sound, Art and Design
+        url: https://link.springer.com/conference/evomusart
+  - title: 'Collectifs, galeries'
+    items:
+      - title: APO-33
+        url: http://apo33.org/index.php/fr/
+      - title: Devition Gallery
+        url: http://areyoudevoted.squarespace.com/exhibitions/
+      - title: scenocosme
+        url: http://www.scenocosme.com/
+  - title: 'Symposiums'
+    items:
+      - title: Post Digital Cultures
+        url: http://www.postdigitalcultures.ch
+  - title: 'Institutions'
+    items:
+      - title: multimédialab
+        url: http://www.multimedialab.be/
+      - title: Mains d'oeuvres
+        url: http://www.mainsdoeuvres.org/
+  - title: 'Médias'
+    items:
+      - title: Digicult
+        url: http://www.digicult.it/
+      - title: rhizome.org
+        url: http://rhizome.org/
+      - title: Creative Applications Network
+        links:
+          - url: http://www.creativeapplications.net/
+          - title: holo
+            url: http://www.creativeapplications.net/holo/
+      - title: nouveauxmédias.net
+        url: http://www.nouveauxmedias.net/
+      - title: paper.li/arts_numériques
+        url: http://paper.li/arts_numeriques/
+      - title: paper.li/arts_numériques/digital-artists
+        url: http://paper.li/arts_numeriques/digital-artists
+  - title: 'Artistes'
+    items:
+      - title: Lara Grant
+        url: http://www.lara-grant.com/
+      - title: Nama instrument, Luiz Gustavo
+        url: http://namainstrument.tumblr.com/
+      - title: Erase, Daniel Jones`
+        url: http://www.erase.net/
+      - title: Jon McCormack
+        url: http://jonmccormack.info/~jonmc/sa/

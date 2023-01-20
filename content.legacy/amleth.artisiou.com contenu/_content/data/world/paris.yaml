@@ -1,0 +1,18 @@
+title: Paris
+tags:
+parts:
+  - title: Musées
+    items:
+      - title: Cernuschi
+        url: http://www.cernuschi.paris.fr/
+  - title: Culture
+    items:
+      - title: Agenda Noise Magazine
+        url: http://www.noisemag.net/agenda/
+      - title: Paris Art
+        url: http://www.paris-art.com
+      - title: Paris Catch
+        url: http://www.paris-catch.fr/
+  - title: Restaurants
+    items:
+      - url: http://lapetitebanane.com

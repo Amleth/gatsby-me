@@ -1,0 +1,30 @@
+title: Research
+tags:
+  - china
+parts:
+  - title: Documents
+    items:
+      - title: Chine ancienne
+        url: https://www.chineancienne.fr
+  - title: Articles
+    items:
+      - url: https://search.openedition.org/index.php?q=Chine&s=Archives+de+sciences+sociales+des+religions
+  - title: Institutions de recherche
+    items:
+      - title: CRCAO
+        url: http://www.crcao.fr/
+      - title: Institut d'Asie Orientale, Lyon
+        url: http://iao.cnrs.fr/?lang=fr
+  - title: Researchers
+    items:
+      - title: Alain Arrault
+        url: http://cecmc.ehess.fr/index.php?2964
+      - title: Rémi Mathieu
+        url: http://www.crcao.fr/spip.php?article184
+      - title: Stephen Jones
+        links:
+        - title: Blog
+          url: https://stephenjones.blog
+        - title: "Li Manshan: Portrait of a Fold Daoist"
+          url: https://vimeo.com/155660741
+      

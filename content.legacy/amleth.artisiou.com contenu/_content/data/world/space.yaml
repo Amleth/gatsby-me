@@ -1,0 +1,11 @@
+title: Space
+parts:
+  - title: Science
+    items:
+      - url: https://www.franceculture.fr/theme/astronomie
+  - title: Sci-Fi
+    items:
+      - url: http://www.projectrho.com/public_html/rocket/
+  - title: News
+    items:
+      - url: https://spacenews.com/

@@ -1,0 +1,27 @@
+{{ cache for="1 day" key="calendar-listing" }}
+    <div class="calendar side-block {{ switch between="odd|even" }}">
+        <h2><a href="/calendar">Upcoming Events</a></h2>
+    
+        {{ entries:listing folder="calendar" show_future="true" show_past="false" limit="2" sort_dir="asc" paginate="false" }}
+            {{ if no_results }}
+                <p class="sorry">
+                    Nothing coming up.<br>
+                    Check back soon.
+                </p>
+            {{ else }}
+                {{ if first }}
+                    <ul>
+                {{ /if }}
+            
+                <li>
+                    <small>{{ date }}</small>
+                    <h3>{{ title }}</h3>
+                </li>
+            
+                {{ if last }}
+                    </ul>
+                {{ /if }}
+            {{ /if }}
+        {{ /entries:listing }}
+    </div>
+{{ /cache }}

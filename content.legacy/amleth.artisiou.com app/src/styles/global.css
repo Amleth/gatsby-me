@@ -1,0 +1,186 @@
+@import "./fontawesome-free-5.15.1-web/css/all.min.css";
+
+:root {
+  --gray1: silver;
+  --gray2: gray;
+  --gray3: dimgray;
+  --link-color: DarkTurquoise;
+  --link-color-on: Turquoise;
+  --right-margin: 2em;
+}
+
+/*******************************************************************************
+RESET
+*******************************************************************************/
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+a,
+a:visited {
+  color: var(--link-color);
+  cursor: default;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-color-on);
+  text-decoration: underline;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: bold;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/*******************************************************************************
+TYPOGRAPHY
+*******************************************************************************/
+
+@font-face {
+  font-family: "AHAMONO-Regular";
+  src: url("AHAMONO-Regular.woff") format("woff");
+}
+
+html {
+  font-family: "AHAMONO-Regular", monospace;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: underline solid transparent;
+  transition: text-decoration 0.33s ease;
+}
+
+a:hover {
+  text-decoration: underline solid currentColor;
+  transition: text-decoration 0s ease;
+}
+
+/*******************************************************************************
+LAYOUT
+*******************************************************************************/
+
+.body {
+  display: flex;
+}
+
+.body .left {
+  border-right: 1px solid var(--link-color);
+  height: 100vh;
+  min-width: 300px;
+  padding-right: 1em;
+  text-align: right;
+}
+
+.body .right {
+  padding: 100px var(--right-margin) 1em var(--right-margin);
+  width: 100%;
+}
+
+/*******************************************************************************
+LEFT
+*******************************************************************************/
+
+.left h1 {
+  font-size: 100%;
+  font-weight: bold;
+  padding: 1em 0;
+  height: 100px;
+}
+
+.tagTotalCount {
+  color: var(--gray1);
+}
+
+.taggedWith {
+  color: var(--gray1);
+}
+
+/*******************************************************************************
+RIGHT
+*******************************************************************************/
+
+.right h2 {
+  border-top: 1px solid var(--gray1);
+  color: var(--gray3);
+  font-size: 200%;
+  font-weight: normal;
+  letter-spacing: 3px;
+  margin-bottom: 1em;
+  margin-top: 2em;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.tags {
+  border-bottom: 1px solid var(--gray1);
+  color: var(--gray1);
+  margin-bottom: 3em;
+  padding-bottom: 1em;
+}
+
+.right h3 {
+  font-size: 150%;
+  margin: 1em 0;
+}
+
+.right h4 {
+  font-size: 100%;
+  margin: 1em 0;
+}
+
+.right ul {
+  list-style-type: none;
+}
+
+.right ul > li:before {
+  content: "-";
+  position: absolute;
+  margin-left: -1.1em;
+}
+
+.right ul ul {
+  margin-left: 2em;
+}
+
+.right .links {
+  margin: 0 0.3em;
+}
+
+.right .links a {
+  margin: 0 0.2em;
+}
+
+.linkText {
+  color: var(--gray1);
+}
+
+.links a {
+  text-decoration: none;
+}
+
+.links a:hover .linkText {
+  color: var(--link-color-on);
+}

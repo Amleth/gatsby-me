@@ -1,0 +1,50 @@
+title: Javascipt
+tags:
+  - programming
+parts:
+  - title: The language
+    items:
+      - title: Airbnb JavaScript Style Guide() {
+        url: https://github.com/airbnb/javascript
+      - title: Mais alors pourquoi encore coder en JavaScript ?
+        author: W. Goedel
+        date: 2018/05/02
+        url: https://www.youtube.com/watch?v=Sjaur6Tvk2s
+  - title: Cool libs
+    items:
+      - title: React
+        items:
+          - title: React Interview Questions & Answers
+            url: https://github.com/sudheerj/reactjs-interview-questions
+      - title: Redux
+        links:
+          - title: react-redux-links
+            type: gh
+            url: https://github.com/markerikson/react-redux-links
+      - title: Gatsby
+        links:
+          - title: Using Gatsby for a web app with dynamic content — A case study
+            type: medium
+            url: https://blog.hasura.io/building-a-dynamic-listing-web-app-with-pagination-and-dynamic-pages-using-gatsby-2ddee9ec2dc3
+      - title: REAVIZ — https://github.com/jask-oss/reaviz
+        url: https://github.com/jask-oss/reaviz
+  - title: JS in arts
+    items:
+      - title: Canvas
+        links:
+          - title: node-canvas
+            type: gh
+            url: https://github.com/Automattic/node-canvas
+  - title: React
+    items:
+      - title: React en 2019 (B. Cavy & Y. Frin)
+        url: https://www.youtube.com/watch?v=Q2FGwj5o_2c&list=WL&index=25
+        date: 2019.05.07
+      - url: https://github.com/rehooks/awesome-react-hooks
+      - title: Dan Abramov Blog
+        url: https://overreacted.io/
+  - title: Web Components
+    items:
+      - title: "Micro Frontend: le casse tête des micro services étendu au FrontEnd ! (Audrey Neveu)"
+        date: 2019.05.07
+        url: https://www.youtube.com/watch?v=f6_99ExOvWs

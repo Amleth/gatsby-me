@@ -1,0 +1,13 @@
+title: Scala
+tags:
+  - programming
+parts:
+  - title: Blogs
+    items:
+      - title: alvin alexander
+        url: https://alvinalexander.com/
+  - title: Learning AKKA HTTP REST API
+    items:
+      - url: https://www.codersbistro.com/blog/restful-apis-with-akka-http/
+      - url: https://medium.com/dive-in-scala/building-rest-api-web-service-using-akka-http-showing-crud-operations-baked-with-redis-d15f4c4bf4d5
+      - url: https://github.com/ArchDev/akka-http-rest

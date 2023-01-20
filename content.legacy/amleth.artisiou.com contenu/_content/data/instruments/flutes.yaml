@@ -1,0 +1,49 @@
+title: Souffler
+tags:
+  - china
+  - japan
+  - music
+parts:
+  - title: 尺八 (shakuhachi)
+    items:
+    - title: Musiciens
+      items:
+        - title: Véronique Piron
+          url: http://www.veroniquepiron.com/index.html
+        - title: Yoshikazu Iwamoto
+          url: https://www.google.com/search?q=Yoshikazu+Iwamoto
+        - title: Joseph Myoushin Sanger
+          bc: https://myoushinshakuhachi.bandcamp.com
+    - title: Groupes
+      items:
+        - title: ESS Shakuhachi Forum
+          url: http://www.shakuhachiforum.eu/index.php
+        - title: European Shakuhachi Society
+          url: http://shakuhachisociety.eu
+        - title: Shin-tozan Ryû France
+          url: http://www.shintozanryu-france.com
+    - title: L'instrument
+      items:
+        - title: JM Fouilleul
+          url: http://www.shakuhachi.fr/jm-fouilleul-flutes.html
+    - title: Articles
+      items:
+        - title: A preliminary approach to the analysis of honkyoku, the solo repertoire of the Japanese Shakuhachi
+          author: Bruno Deschênes
+          date: 2017/04/27
+          url: http://nemo-online.org/archives/1674
+  - title: 箫 (xiāo)
+    items: 
+      - title: Blogs
+        items:
+          - title: Fluthier
+            url: https://fluthier.com
+      - title: Leçons
+        items:
+          - title: Chinese Music Beginners' Flute Resources
+            url: http://www.goamcan.com/lessons
+          - url: http://soundofdragon.com/xiao
+      - url: http://santafefluteschool.com/resources/xiao
+  - title: Appeaux
+    items:
+      - url: https://www.fuzeau.com/1027-appeaux

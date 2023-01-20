@@ -1,0 +1,14 @@
+title: "Web"
+tags:
+  - programming
+  - web
+text: Web dev
+parts:
+  - title: Browsers
+    items:
+      - url: https://webplatform.news
+      - url: https://twitter.com/intenttoship?lang=en
+  - title: Dev tools
+    items:
+      - url: https://storybook.js.org/
+        

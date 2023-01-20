@@ -1,0 +1,9 @@
+<div class="main article" role="main">
+  {{ theme:partial src="breadcrumbs" }}
+  <h1>{{ title|smartypants|widont }}</h1>
+  {{ content|widont }}
+</div>
+
+<div class="aside" role="complementary">
+  {{ theme:partial src="common-sidebar" }}
+</div>

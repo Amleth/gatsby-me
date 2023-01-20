@@ -1,0 +1,17 @@
+{{ taxonomy:listing folder="*" type="categories" sort_by="results" sort_dir="desc" }}
+
+	{{ if first }}
+		<div class="blog-categories side-block {{ switch between="odd|even" }}">
+			<h2>Catégories</h2>
+			<ul>
+	{{ endif }}
+
+	<li>
+		<a href="{{ _site_root }}categories/{{ name }}">{{ name }}</a>
+	</li>
+
+	{{ if last }}
+			</ul>
+		</div>
+	{{ endif }}
+{{ /taxonomy:listing }}

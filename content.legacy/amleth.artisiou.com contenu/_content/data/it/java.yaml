@@ -1,0 +1,18 @@
+title: Java
+tags:
+  - programming
+  - web
+parts:
+  - title: JVM
+    items:
+      - title: La JVM et Docker, vers une symbiose parfaite ! (David Delabassee) (DEVOXX)
+        url: https://www.youtube.com/watch?v=scqMQ6bfHCo
+        date: 2019.05.07
+      - title: Que se passe-t-il sous le capot ? Exploration au coeur de la JVM (Sylvain Wallez) (DEVOXX)
+        url: https://www.youtube.com/watch?v=2dhi1ezcdNc&list=WL&index=62&t=0s
+        date: 2019.05.07
+  - title: Frameworks web
+    items:
+      - title: Applications web efficaces avec Spring Boot 2 (Stéphane Nicoll, Brian Clozel) (DEVOXX)
+        url: https://www.youtube.com/watch?v=rjtlxiywu3c
+        date: 2019.05.07

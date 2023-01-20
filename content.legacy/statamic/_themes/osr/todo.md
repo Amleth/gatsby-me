@@ -1,0 +1,11 @@
+"autoprefixer": "^6.7.6",
+"cssnext": "^1.8.4",
+"del": "^2.2.2",
+"font-awesome": "^4.7.0",
+"gulp": "^3.9.1",
+"gulp-connect-php": "0.0.8",
+"gulp-cssnano": "^2.1.2",
+"gulp-postcss": "^6.3.0",
+"gulp-watch": "^4.3.11",
+"postcss-font-magician": "^1.6.1",
+"precss": "^1.4.0"

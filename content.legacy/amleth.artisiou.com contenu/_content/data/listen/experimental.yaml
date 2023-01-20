@@ -1,0 +1,20 @@
+title: Musique expérimentale
+tags:
+  - music
+parts:
+  - title: Radio
+    items:
+      - title: France Musique — L'Expérimentale
+        url: https://www.francemusique.fr/emissions/l-experimentale
+  - title: Noise
+    items:
+      - title: Conférence — The most beautiful ugly sound in the world
+        author: Pauline Nadrigny & Catherine Guesde
+        date: 2018.03.07
+        url: https://www.canal-u.tv/video/universite_paris_1_pantheon_sorbonne/the_most_beautiful_ugly_sound_in_the_world_pauline_nadrigny_et_catherine_guesde.41307
+  - title: Bands & artists
+    items:
+      - title: Zoviet France
+        url: http://zovietfrance.podbean.com/
+      - title: Tetsuo Tsukamoto
+        bc: https://tetsuotsukamoto.bandcamp.com/music

@@ -1,0 +1,10 @@
+<div class="main" role="main">
+  <div class="article">
+    <h1>{{ title|smartypants|widont }}</h1>
+    {{ content|widont }}
+  </div>
+</div>
+
+<div class="aside" role="complementary">
+  {{ theme:partial src="common-sidebar" }}
+</div>

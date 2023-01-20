@@ -1,0 +1,21 @@
+title: Digital tools
+tags:
+  - musicology
+  - technologies cognitives
+  - digital humanities
+parts:
+  - title: Digital scores
+    items:
+      - title: "Enhancing Music Notation Addressability (EMA)"
+        url: https://github.com/umd-mith/ema
+      - title: Single Interface for Music Score Searching and Analysis project (SIMSSA)
+        url: https://simssa.ca/
+  - title: Semantic Web
+    items:
+      - title: DOREMUS
+        links:
+          - title: Project Website
+            url: http://www.doremus.org/
+          - title: Training Material
+            url: http://www.doremus.org/?page_id=36
+  

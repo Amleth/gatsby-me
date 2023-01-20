@@ -1,0 +1,29 @@
+title: Hexcrawl
+parts:
+  - title: Resources blogs
+    items:
+      - title: d4 Caltrops
+        url: http://blog.d4caltrops.com/
+  - title: Articles
+    items:
+      - url: https://merricb.com/2015/11/16/entering-the-wilderness-tracked-exploration/
+      - url: https://merricb.com/2015/11/15/entering-the-wilderness-exploration-and-castles/
+  - title: Published stuff
+    items:
+      - title: 77Mundos
+        url: http://www.drivethrurpg.com/browse/pub/11169/77Mundos
+  - title: Wilderness
+    items:
+      - title: The Wilderness Architect
+        url: http://odd74.proboards.com/thread/786
+        date: 2008/04/14
+      - title: A Procedure for Exploring the Wilderness Redux
+        url: https://retiredadventurer.blogspot.com/2015/05/a-procedure-for-exploring-wilderness.html
+        date: "2015.05.07"
+  - title: Tools
+    items:
+      - title: Pixel Art Hex Maps for DnD Campaigns! Hex Kit 2.0
+        url: https://www.youtube.com/watch?v=PafovrOyrdw
+      - title: Hexagonal Graph Paper PDF Generator
+        url: https://incompetech.com/graphpaper/hexagonal/
+      - url: http://www.welshpiper.com/tag/hex-mapping/

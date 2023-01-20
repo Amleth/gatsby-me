@@ -1,0 +1,16 @@
+title: CSS
+tags:
+  - programming
+  - web
+parts:
+  - title: Libraries
+    items:
+      - url: https://masonry.desandro.com/
+      - url: https://github.com/MicheleBertoli/css-in-js
+  - title: Tricks
+    items:
+      - url: https://www.w3.org/Style/Examples/007/
+      - url: https://css-tricks.com/
+      - url: https://www.youtube.com/watch?v=2wHL5YTdcnY&list=WL&index=28&t=0s
+        title: Faisons de la magie grâce à Houdini CSS (J.F. Garreau)
+        date: 2019.05.07

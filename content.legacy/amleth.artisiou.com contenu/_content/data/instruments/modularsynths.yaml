@@ -1,0 +1,90 @@
+title: Modular Synths
+tags:
+  - synths
+parts:
+  - title: Podcasts
+    items:
+      - title: SysEx Dumpster
+        url: https://soundcloud.com/sysexdumpster
+  - title: Patching ideas
+    items:
+      - title: Surprising uses for modules that you never thought of before
+        url: https://merricb.com/2017/05/23/a-look-at-initiative-systems-in-dungeons-dragons/
+      - title: Self generating patches....tips and ideas ?
+        url: https://www.muffwiggler.com/forum/viewtopic.php?p=426283&sid=ed0270e5b536adbabe262c5bffd0c30e
+      - title: Your 2 Game-Changing Modules
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=178183&start=all&postdays=0&postorder=asc
+      - title: How do you use random?
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=194886&start=0&postdays=0&postorder=asc&highlight=
+      - title: Your most used/favorite combination of 2 modules?
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=95249&start=0&postdays=0&postorder=asc&highlight=
+      - title: I f***ing love modular
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=201953&start=0&postdays=0&postorder=asc&highlight=
+      - title: How do you write „songs“ on a modular system?
+        url: https://www.muffwiggler.com/forum/viewtopic.php?t=202095
+      - title: Best module combinations of different designers
+        url: https://www.muffwiggler.com/forum/viewtopic.php?f=16&t=226434
+  - title: Aspects
+    items:
+      - title: Bass
+        items:
+          - title: Deep bass sounds
+            date: '2013.01.20'
+            url: https://www.muffwiggler.com/forum/viewtopic.php?f=16&t=76133
+          - title: best bass modules
+            date: '2016.01.30'
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=154765
+          - title: eurorack bass synth?
+            date: '2016.03.21'
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=158110
+      - title: Logic, clock, comp, division
+        items:
+          - title: Logic sum and or?
+            url: http://www.muffwiggler.com/forum/viewtopic.php?t=90262
+            date: '2013.08.05'
+          - title: Ladik J-110 Derivator & J-120 Comparator
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=159114&sid=5acfe8e5171016ffe458dd82f4d96a9d
+            date: '2016.04.06'
+          - title: Nobody makes a simple flipflop module?
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=162924&sid=fd79f1e3cd36a1a979ed3eae27e9b1c9
+            date: '2016.06.08'
+          - title: funky clock modulators?
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=166126&sid=f440b8cd16656d2680d6bd2f81b1ab7c
+            date: '2016.08.05'
+          - title: Polyrhythms modules
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=148041&start=all&postdays=0&postorder=asc
+            date: '2015.10.19'
+      - title: Mixing
+        items:
+          - title: STG Mixer (CP3 like)
+            url: http://www.muffwiggler.com/forum/viewtopic.php?t=95626&start=all&postdays=0&postorder=asc&sid=c11ea07ed082d3a9d592a11a643ccfee
+            date:
+      - title: Random
+        items:
+          - title: Best "random" <4hp?
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=188622&start=all
+            date: '2017.09.12'
+      - title: Sub
+        items:
+          - title: suboctave generators. how?
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=142374&sid=6cc3af20b8e35dbd9a159d99018cf32c
+            date: '2015.07.16'
+          - title: 'Question: How do you add a sub oscillator ...'
+            url: https://www.muffwiggler.com/forum/viewtopic.php?t=144333&start=all&postdays=0&postorder=asc
+            date: '2015.08.20'
+          - title: 'Patch Tips #14 - Sub-Harmonic Division'
+            url: http://navsmodularlab.blogspot.com/2010/11/patch-tips-14-sub-harmonic-division.html
+            date: '2010.11.21'
+      - title: Degradation
+        items:
+          - url: https://www.muffwiggler.com/forum/viewtopic.php?t=206649&sid=c79f6f12422651e378a17740c7f0865e
+            title: Best simple bit crusher?
+  - title: Resources & Theory
+    items:
+      - url: https://learningmodular.com/glossary/
+      - url: https://www.noiseengineering.us/blog
+  - title: Documentation
+    items:
+      - title: Expert Sleepers Disting Mrk 4
+        links:
+          - url: http://www.vo1t.com/Euro/Illustrated/ESdistingMk4V4.3.pdf

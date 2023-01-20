@@ -1,0 +1,26 @@
+title: Audio
+tags:
+  - audio
+parts:
+  - title: Signal Processing
+    items:
+      - title: 15 engineering books for synth nerds and makers
+        youtube: https://www.youtube.com/watch?v=Yui_uSp0Clw
+  - title: Research tools
+    items:
+      - title: aubio
+        url: https://github.com/aubio/aubio
+      - title: Praat
+        url: http://www.fon.hum.uva.nl/praat/
+      - title: pyAudioAnalysis
+        gh: https://github.com/tyiannak/pyAudioAnalysis
+      - title: LibROSA
+        url: http://librosa.github.io/librosa/
+      - title: The Ultimate Guide To Speech Recognition With Python
+        url: https://realpython.com/python-speech-recognition/
+      - title: inaSpeechSegmenter
+        gh: https://github.com/ina-foss/inaSpeechSegmenter
+  - title: Hardware
+    items:
+      - url: https://www.youtube.com/watch?v=jg3AuGUQxIs
+        title: "A Beginner's Guide To Cassette and Tape Machines For Music Production"

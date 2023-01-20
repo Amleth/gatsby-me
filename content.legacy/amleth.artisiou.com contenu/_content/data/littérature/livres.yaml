@@ -1,0 +1,41 @@
+title: Livres
+tasg:
+parts:
+  - title: Audiobooks
+    items:
+      - title: Litterature audio.com
+        url: http://www.litteratureaudio.com/
+      - title: AudiOCité
+        url: http://www.audiocite.net/
+  - title: Sites critiques, blogs, etc.
+    items:
+      - title: Au diable Vauvert
+        url: http://audiable.com/index.html
+      - title: Flânerie quotidienne
+        url: http://audiable.com/index.html
+      - title: Le vent sombre
+        url: http://leventsombre.cottet.org/
+  - title: Librairies
+    items:
+      - title: amk
+        url: http://librairieamk.wordpress.com/
+  - title: Édition
+    items:
+      - title: publie.net
+        url: http://www.publie.net/le-catalogue-papier/
+  - title: Livres numériques
+    items:
+      - title: Wikibooks
+        url: http://fr.wikibooks.org/wiki/Accueil
+      - title: Litterature audio.com
+        url: http://www.litteratureaudio.com/
+  - title: SF & Fantasy
+    items:
+      - title: Prix Hugo
+        links:
+          - url: http://www.thehugoawards.org/
+          - url: http://fr.wikipedia.org/wiki/Prix_Hugo
+      - title: Prix Nebula
+        links:
+          - url: http://fr.wikipedia.org/wiki/Prix_Nebula
+          - url: http://www.sfwa.org/nebula-awards/

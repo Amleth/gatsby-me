@@ -1,0 +1,44 @@
+title: Musiques d'Asie
+tags:
+  - musicology
+  - china
+parts:
+  - title: Disques
+    items:
+      - url: https://vdegallo.com/fr/product-category/musiques-du-monde-ethnique-world-music/asie/
+  - title: Japon
+    items:
+      - url: http://semioweb.msh-paris.fr/ressources_enligne/wwwarchives/sinae/MusTradJap/Intro.htm
+  - title: Chine
+    items:
+      - title: Researchers 
+        items:
+          - title: François Picard
+            links: 
+              - title: Page personnelle sur le site de l'IReMus
+                url: http://www.iremus.cnrs.fr/fr/membres-permanents/francois-picard
+              - title: CV HAL 
+                url: https://cv.archives-ouvertes.fr/francois-picard
+              - title: Livres chez You Feng
+                url: https://www.you-feng.com/recherche.php?recherche=picard
+      - title: Events
+        items:
+          - url: https://live.philharmoniedeparis.fr/programme/0074923/chine-les-reunions-confuceennes-avec-l-association-de-musique.pdf
+      - title: Books
+        items:
+          - author: Joseph-Marie AMIOT
+            date: '1779'
+            title: La musique des chinois
+            url: https://www.chineancienne.fr/17e-18e-s/m%C3%A9moires-concernant-les-chinois/amiot-la-musique-des-chinois
+      - title: Records
+        items:
+          - title: « 编钟乐舞 湖北省歌舞团演出 (完整专辑11首) »
+            type: yt
+            url: https://www.youtube.com/watch?v=zqKm5nyosw8&index=3&list=WL
+      - title: Revues
+        items:
+          - url: https://journals.openedition.org/ethnomusicologie/
+            title: Cahiers d'ethnomusicologie
+            links:
+              - url: https://journals.openedition.org/ethnomusicologie/607
+                title: François Picard

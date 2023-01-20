@@ -1,0 +1,105 @@
+title: Rock, etc.
+tags:
+  - music
+parts:
+  - title: Discovering new things
+    items:
+      - title: Le magazine Noise
+        url: http://www.noisemag.net
+      - title: Le disquaire Music Fear Satan
+        url: http://www.musicfearsatan.com
+      - title: Wire
+        url: http://www.thewire.co.uk
+      - title: Obsküre
+        url: http://www.obskure.com/fr
+      - title: Chunklet
+        url: http://www.chunklet.com
+      - title: xsilence.net
+        url: http://www.xsilence.net
+      - title: Occult Rock
+        url: http://www.occultrock.com
+      - title: The Obelisk
+        url: http://theobelisk.net/obelisk
+  - title: Old sites
+    items:
+      - title: Broken Press
+        url: http://brokenpress.blogspot.fr
+      - title: Blog de Radio Fear Satan
+        url: http://radiofearsatan.over-blog.com
+  - title: Labels
+    items:
+      - title: Tapeworm
+        url: http://www.tapeworm.org.uk
+      - title: Neurot Recordings
+        url: http://www.neurotrecordings.com
+      - title: Hydra Head Records
+        url: http://www.hydrahead.com
+      - title: Southern lord
+        url: http://www.southernlord.com
+      - title: Sub Pop
+        url: https://www.subpop.com
+      - title: Alternative Tentacles
+        url: http://www.alternativetentacles.com
+      - title: Rumbletowne Records
+        url: http://www.rumbletowne.com/rtr
+      - title: Sacred Bones Records
+        url: http://www.sacredbonesrecords.com
+      - title: Sargent House
+        url: http://sargenthouse.com
+      - title: The Flenser
+        url: http://theflenser.com
+        sc: https://soundcloud.com/flenserrecords
+        bc: https://theflenser.bandcamp.com
+  - title: Contemporary Rock
+    items:
+      - title: Chelsea WOlfe
+        bc: https://chelseawolfe.bandcamp.com
+      - title: Earth
+        links:
+          - title: drcarlsonalbion
+            url: https://drcarlsonalbion.wordpress.com
+      - title: Ides of Gemini
+        url: http://idesofgemini.blogspot.fr
+        fb: https://www.facebook.com/IdesofgeminI
+        bc: http://idesofgemini.bandcamp.com
+      - title: Black Mare
+        url: http://www.theblackmare.com
+        bc: http://blackmare.bandcamp.com
+      - title: Black Math Horseman
+        url: http://teepeerecords.com/bands/black_math_horseman/index.php
+      - title: Sera Timms (Ides of Gemini, Black Mare, Black Math Horseman
+        sc: https://soundcloud.com/humanjigsaw
+        url: http://www.humanjigsaw.com
+      - title: Emma Ruth Rundle
+        url: http://emmaruthrundle.com
+        bc: http://emmaruthrundle.bandcamp.com/music
+        links:
+          - title: Sur le label Sargent House
+            url: http://sargenthouse.com/Emma_Ruth_Rundle
+          - title: Tumblr
+            url: http://emmaruthrundlesh.tumblr.com
+      - title: Ô Paon
+        url: http://www.opaon.ca
+      - title: Marriages
+        url: http://marriagesband.com
+        bc: http://marriagesmusic.bandcamp.com/music
+      - title: Old Man Gloom
+        bc: http://oldmangloom.bandcamp.com
+      - title: Jessica93
+        url: http://jessica93.org
+        bc: http://jessica93.bandcamp.com/music
+        sc: https://soundcloud.com/jessica-93
+        links:
+          - title: 'split Mistress Bomb H : Salle de shoot'
+            url: http://www.noisemag.net/salle-de-shoot-le-split-jessica93mistress-bomb-h-en-ecoute-integrale
+      - title: Witch Mountain
+        bc: https://witchmountain.bandcamp.com
+        links:
+          - title: Mobile of Angels
+            date: 2014
+            url: https://profoundlorerecords.bandcamp.com/album/mobile-of-angels
+      - title: L'Effondras
+        bc: http://leffondras.bandcamp.com/music
+      - title: Sabbath Assembly
+        bc: http://sabbathassembly.bandcamp.com
+      

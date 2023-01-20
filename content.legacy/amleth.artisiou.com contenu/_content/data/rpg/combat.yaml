@@ -1,0 +1,57 @@
+title: Combat
+parts:
+  - title: Règles
+    items:
+      - title: Fil CasusNO « Les systèmes d'initiative et vous »
+        url: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=14733
+  - title: Armes blanches
+    parts:
+      - title: Jeux traitant particulièrement bien la question
+        items:
+          - title: The Riddle of Steel
+            links:
+              - url: http://www.driftwoodpublishing.com/
+              - title: Fil sur The Forge
+                url: http://www.indie-rpgs.com/archive/index.php?topic=7840.msg81826#msg81826
+              - title: trosfans.com forums
+                url: http://www.trosfans.com/forum/
+              - title: Driftwood Publishing
+                url: http://www.driftwoodpublishing.com/
+              - title: Blade of the Iron Throne
+                url: http://ironthronepub.com/
+              - title: Song of Swords
+                url: http://www.opaquegames.com/
+              - title: Blade of the Iron Throne vs Song of Swords (1.9.9)
+                url: http://opaque.freeforums.net/thread/23/blade-iron-throne-song-swords
+      - title: Ressources historiques
+        items:
+          - title: Body Armour
+            date: 2017.09.27
+            url: http://middenmurk.blogspot.com/2015/09/body-armour.html
+            author: Tom Fitzferald
+          - title: La typologie Oakeshott
+            url: http://www.algonet.se/~enda/oakeshott_eng.htm
+          - title: Blog ARDAHME
+            url: https://ardamhe.wordpress.com/
+          - title: Forum codexmartialis.com (certaines catégories)
+            url: http://www.codexmartialis.com/
+          - title: Les livres d'illustrations d'histoire militaire Osprey
+            url: http://www.ospreypublishing.com/
+          - title: ARMA (The Association for Renaissance Martial Arts)
+            url: http://www.thearma.org/
+      - title: Fils de forums
+        items:
+          - title: Medieval Chinese Weapons sur RPG.net
+            url: http://forum.rpg.net/showthread.php?58604-Medieval-Chinese-Weapons&s=
+  - title: Armes à feu
+    parts:
+      - title: Ressources
+        items:
+          - title: L'article Muzzle Energy sur Wikipédia
+            url: http://en.wikipedia.org/wiki/Muzzle_energy
+          - title: L'article Pouvoir d'arrêt (munition) sur Wikipédia
+            url: http://fr.wikipedia.org/wiki/Pouvoir_d%27arr%C3%AAt_%28munition%29
+          - title: L'article Gillet pare-balles sur Wikipédia
+            url: http://fr.wikipedia.org/wiki/Gilet_pare-balles
+          - title: Description et gravité des lésions traumatiques selon les classifications AIS 1998 et IIS 1994
+            url: http://www.invs.sante.fr/publications/2004/classification_ais_iis/classification_ais_iis.pdf

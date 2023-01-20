@@ -1,0 +1,454 @@
+title: OSR
+tags: ["dnd", "jdr", "old school"]
+parts: 
+  - title: Cool brands
+    items:
+      - title: Order of the d30
+        url: https://plus.google.com/communities/101721894829853579224
+  - title: News & references websites
+    items:
+      - url: http://www.paperspencils.com/community-resources/
+      - title: Old School Renaissance Sites (Bat in the Attic)
+        url: http://www.batintheattic.com/oldschoolsurvey.htm
+      - title: OSR Search
+        url: http://osrsearch.blogspot.com
+      - title: D&D Retroclones
+        url: http://taxidermicowlbear.weebly.com/dd-retroclones.html
+      - title: OSR Today
+        url: http://osrtoday.com
+      - title: OSR news
+        url: http://osrnews.blogspot.com
+      - title: Tabletop Library
+        url: https://tabletoplibrary.com
+      - title: L'encyclopédie du "Old school" et du rétrogaming
+        url: http://retroclone.fr
+      - title: Recommended Reading (Questing Beast)
+        url: http://questingblog.com/resources/
+      - title: Old-School RPG Blogosphere
+        url: http://osrblogosphere.blogspot.com
+      - url: http://nerdtrek.com/tag/osr/
+      - url: https://coinsandscrolls.blogspot.com/2017/10/the-index.html
+      - title: rpgnow tags
+        items:
+          - title: Basic/BECMI or OD&D
+            url: http://www.rpgnow.com/browse.php?filters=0_0_1330_0_0
+          - title: OSR
+            url: http://www.rpgnow.com/browse.php?filters=0_0_1300_0_0&test_epoch=0&page=1&sort=4a
+          - title: Labyrinth Lord
+            url: http://www.rpgnow.com/browse.php?filters=0_0_31807_0_0&test_epoch=0&page=1&sort=4a
+          - title: OSRIC
+            url: http://www.rpgnow.com/browse.php?filters=0_0_10094_0_0&test_epoch=0&page=1&sort=4a
+          - title: Castles & Crusades
+            url: http://www.rpgnow.com/browse.php?filters=0_0_10126_0_0&test_epoch=0&page=1&sort=4a
+  - title: Rules
+    items:
+      - title: OSR Rules Library
+        url: https://github.com/valzi/OSR_Rules_Library/wiki
+  - title: Reviews
+    items:
+      - title: Prince of Nothing
+        url: https://princeofnothingblogs.wordpress.com/
+      - url: https://technicalgrimoire.com/david/extremely-interesting-adventures
+  - title: Cool theory articles & forum threads
+    items:
+        - title: OSR-style, Simplified (Questing Beast)
+          url: http://questingblog.com/osr-style-simplified/
+        - title: The Labors of Hercules as OSR Obstacles (Questing Beast)
+          url: http://questingblog.com/the-labors-of-heracles-as-osr-obstacles/
+        - title: Impact
+          url: http://goblinpunch.blogspot.com/2017/10/impact.html
+          date: 2017.10.05
+        - title: B/X D&D…Why were the good old days so good? (rpg.net)
+          url: https://forum.rpg.net/showthread.php?537872-B-X-D-amp-D%85Why-were-the-good-old-days-so-good&p=12845752#post12845752
+          date: 2010.09.19
+        - title: "Recreating a classic OD&D \"Old School Dungeon\" Feel (Story Games thread)"
+          url: http://www.story-games.com/forums/discussion/2780/recreating-a-classic-od-d-old-school-dungeon-feel
+          date: 2007.04
+  - title: Blogs
+    items:
+      - title: Save Versus All Wands - Thinking About Original Dungeons & Dragons
+        url: http://saveversusallwands.blogspot.fr/
+  - title: In space...
+    items:
+      - title: Starfaring Exploration for Delving Deeper 
+        date: 2016/03/07
+        url: http://joyfulsitting.blogspot.fr/2016/03/starfaring-exploration-for-delving.html
+  - title: Great articcles
+    items:
+      - title: Drunk, Prone & On Fire (Tactical Transparency)
+        date: October 15, 2018
+        url: https://dndwithpornstars.blogspot.com/2018/10/drunk-prone-on-fire-tactical.html?zx=50ff261522ab741b
+  - title: Videos
+    items:
+      - title: Interview with Bryce Lynch
+        author: Patrick Stuart
+        url: https://www.youtube.com/watch?v=BbGUuEtbNeE
+      - title: Interview with Ben L of Mazirians Garden
+        author: Patrick Stuart
+        url: https://www.youtube.com/watch?v=SremWrKfAjQ
+  - title: Games
+    items:
+      - title: AD&D 3rd edition
+        url: http://www.scruffygrognard.com/
+        
+
+# # -   - title: OSR-Style Challenges: "Rulings Not Rules" is Insufficient
+#   url: https://goblinpunch.blogspot.fr/2016/02/osr-style-challenges-rulings-not-rules.html) (Goblin Punch, feb 2016
+# # -   - title: Fungus Among Us
+#   url: http://grognardia.blogspot.fr/2011/05/fungus-among-us.html) (James Maliszewski, may 2011
+# # -   - title: Suggested reading
+#   url: http://www.necropraxis.com/suggested-reading/) (Necropraxis
+# # -   - title: On the Oracular Power of Dice
+#   url: http://grognardia.blogspot.fr/2008/04/on-oracular-power-of-dice.html) (Grognardia, april 2008
+# # -   - title: Review Standards
+#   url: http://tenfootpole.org/ironspike/?page_id=1201) (tenfootpole.org
+# # - Adventures   - title: Review Standards
+#   url: http://tenfootpole.org/ironspike/?page_id=1201) (tenfootpole.org
+
+# # -   - title: Best of OSR?
+#   url: https://forum.rpg.net/showthread.php?778661-Best-of-OSR) (RPG.net, march 2016
+# # -   - title: D&D Expert set - dice shenanigans?
+#   url: http://story-games.com/forums/discussion/20672/d-d-expert-set-dice-shenanigans) (Story Games, june 2015
+# # -   - title: Old school : 10 principes
+#   url: http://www.tartofrez.com/old-school-10-principes/) (Tartofrez, jun 2015
+# # -   - title: [D&D '74] Experience Benefit Analysis
+#   url: http://indie-rpgs.com/adept/index.php?topic=251.0) (Adept Press Forum, december 2013
+# # -   - title: OSR stuff that is catching my eye.
+#   url: http://www.story-games.com/forums/discussion/18969/osr-stuff-that-is-catching-my-eye) (Story Games, november 2013
+# # -   - title: Talk to me about OSR
+#   url: http://www.story-games.com/forums/discussion/18975/talk-to-me-about-osr) (Story Games, november 2013
+# # -   - title: Settings and Adventures for OSR
+#   url: http://www.story-games.com/forums/discussion/19001/settings-and-adventures-for-osr) (Story Games, november 2013
+# # -   - title: [ur-D&D] What are we playing here exactly?
+#   url: http://indie-rpgs.com/adept/index.php?topic=224.0) (Adept Press Forum, november 2013
+# # -   - title: [old and new D&D] OSR fundamentalism (warning: not insulting)
+#   url: http://indie-rpgs.com/adept/index.php?topic=208.0) (Adept Press Forum, october 2013
+# # -   - title: [old and new D&D] Moreno and the D&D Orthdox Catholic Communion
+#   url: http://indie-rpgs.com/adept/index.php?topic=190.0) (Adept Press Forum, september 2013
+# # -   - title: [old and new D&D] Eero and the Unitarian-Universalist branch of modern D&D
+#   url: http://indie-rpgs.com/adept/index.php?topic=189.0) (Adept Press Forum, august 2013
+# # -   - title: [proto dnd] An endeavor inspired by Eero Tuovinen's OSR Sandbox
+#   url: http://indie-rpgs.com/adept/index.php?topic=124) (Adept Press Forum, june 2013
+# # -   - title: [OSR D&D] Strategic scope of burning witches
+#   url: http://story-games.com/forums/discussion/18460/osr-dd-strategic-scope-of-burning-witches) (Story Games, june 2013
+# # -   - title: Our OSR D&D sandbox campaign
+#   url: http://indie-rpgs.com/adept/index.php?topic=63.0) (Adept Press Forum, october 2012
+# # -   - title: A Cool Thing Happened in my D&D Session
+#   url: http://story-games.com/forums/discussion/15822/) (Story Games, february 2012
+# # -   - title: Let's ask Eero about Primitive D&D
+#   url: http://story-games.com/forums/discussion/14363/) (Story Games, may 2011
+# # -   - title: Primitive-D&D
+#   url: https://isabout.wordpress.com/2007/10/24/primitive-dd/) (Eero Tuovinen's blog, november 2010
+# # -   - title: Challenge-based adventuring
+#   url: https://isabout.wordpress.com/2007/11/01/challenge-based-adventuring/) (Eero Tuovinen's blog, november 2007
+# # -   - title: OD&D in the Caverns of Thracia
+#   url: http://www.thealexandrian.net/creations/talesfromthetable/tale04-odnd-thracia.html) (thealexandrian
+
+# # ## OSR and beyond
+
+# # -   - title: Ten OSR Books That are Not Nostalgia Trips or Metal/Shock Horror
+#   url: http://hydraco-op.tumblr.com/post/142237871226/ten-osr-books-that-are-not-nostalgia-trips-or
+
+# # ## Blogs
+
+# # -   - title: Against The Wicked City
+#   url: http://udan-adan.blogspot.fr/
+# # -   - title: Artifacts and Relics
+#   url: http://artifactsandrelics.blogspot.fr/
+# # -   - title: B/X Blackrazor
+#   url: http://bxblackrazor.blogspot.fr/
+# # -   - title: Bat in the Attic
+#   url: http://batintheattic.blogspot.jp/
+# # -   - title: Beyond the Black Gate
+#   url: http://beyondtheblackgate.blogspot.fr/
+# # -   - title: Beyond Fomalhaut
+#   url: http://beyondfomalhaut.blogspot.fr/
+# # -   - title: Blood of Prokopius
+#   url: http://bloodofprokopius.blogspot.com
+# # -   - title: Built by Gods Long Forgotten
+#   url: http://builtbygodslongforgotten.blogspot.fr/
+# # -   - title: Le chaudron Chromatique
+#   url: http://chaudronchromatique.blogspot.ca/
+# # -   - title: Codex Apocrypha
+#   url: http://codexapocrypha.blogspot.ca/
+# # -   - title: Coins and Scrolls
+#   url: https://coinsandscrolls.blogspot.com/
+# # -   - title: Dark Corners of Role Playing
+#   url: http://darkcornersofrpging.blogspot.jp/
+# # -   - title: Death & Dismemberment
+#   url: http://deathanddismemberment.blogspot.fr/
+# # -   - title: Deep Delving
+#   url: https://deepdelving.wordpress.com/
+# # -   - title: Delta's D&D Hotspot
+#   url: http://deltasdnd.blogspot.fr/
+# # -   - title: Dice and Decisions
+#   url: http://rpg-maths.blogspot.fr/
+# # -   - title: die heart
+#   url: http://dieheart.net/
+# # -   - title: Dispatch From Kickassian
+#   url: http://www.kickassistan.net/
+# # -   - title: DM David
+#   url: http://dmdavid.com/
+# # -   - title: Draconic Magazine
+#   url: http://draconicmagazine.com/) (Venger Satanis
+# # -   - title: Dreams in the Lich House
+#   url: http://dreamsinthelichhouse.blogspot.fr
+# # -   - title: Dreams of Mythic Fantasy
+#   url: http://dreamsofmythicfantasy.blogspot.fr
+# # -   - title: Dungeon of Signs
+#   url: http://dungeonofsigns.blogspot.fr/
+# # -   - title: Dyson's Dodecahedron
+#   url: https://rpgcharacters.wordpress.com/
+# # -   - title: Expanding Universe (Barry Blatt)
+#   url: http://expanduniver.blogspot.fr/
+# # -   - title: Fictive Fantasies
+#   url: https://fictivefantasies.wordpress.com/
+# # -   - title: From the Sorcerer's Skull
+#   url: http://sorcerersskull.blogspot.fr/
+# # -   - title: Giblet Blizzard (Jez Gordon)
+#   url: http://gibletblizzard.blogspot.fr/
+# # -   - title: gloomtrain
+#   url: http://gloomtrain.blogspot.fr/) (Mateo Diaz Torres
+# # -   - title: Gorgonmilk
+#   url: http://gorgonmilk.blogspot.ca/
+# # -   - title: Greyhawk Grognard (Joseph Bloch)
+#   url: http://greyhawkgrognard.blogspot.fr/
+# # -   - title: Hack & Slash - Home of the Quantum Ogre, Agency, Theory, and Fun
+#   url: http://hackslashmaster.blogspot.com
+# # -   - title: Halfling's Luck
+#   url: http://halflingsluck.blogspot.com/
+# # -   - title: Hidden in Shadows
+#   url: http://boggswood.blogspot.com/
+# # -   - title: Hill Cantons
+#   url: http://hillcantons.blogspot.com/
+# # -   - title: Histoires de Donjon
+#   url: http://dungeons-stories.blogspot.fr/
+# # -   - title: In Places Deep - Where Dark Things Sleep
+#   url: http://inplacesdeep.blogspot.fr
+# # -   - title: Jeff's Gameblog
+#   url: http://jrients.blogspot.fr/
+# # -   - title: Kellri
+#   url: http://kellri.blogspot.fr/
+# # -   - title: Land of Nod
+#   url: http://matt-landofnod.blogspot.fr/
+# # -   - title: Last Gasp Grimoire
+#   url: http://www.lastgaspgrimoire.com/
+# # -   - title: Lost in Time
+#   url: https://clawcarver.wordpress.com/
+# # -   - title: Lost Pages
+#   url: https://tsojcanth.wordpress.com/
+# # -   - title: Methods & Madness
+#   url: http://methodsetmadness.blogspot.com
+# # -   - title: Middenmurk
+#   url: http://middenmurk.blogspot.fr/
+# # -   - title: mjulius
+#   url: http://www.mjulius.com/
+# # -   - title: Monsters and Manuals (David McGrogan)
+#   url: http://monstersandmanuals.blogspot.fr/
+# # -   - title: Monster Manual Sewn From Pants
+#   url: http://monstermanualsewnfrompants.blogspot.co.uk/p/you-wanna-see-just-rpg-stuff-i-wrote.html
+# # -   - title: Morten Greis - Roles, Dice and Fun
+#   url: https://mortengreis.wordpress.com/
+# # -   - title: msjx
+#   url: http://www.msjx.org/
+# # -   - title: Necropraxis (Wonder & Wickedness)
+#   url: http://www.necropraxis.com/
+# # -   - title: Occultesque
+#   url: http://www.occultesque.com/
+# # -   - title: Papers & Pencils
+#   url: http://www.paperspencils.com/
+# # -   - title: Playing D&D with pornstars (Zak Smith)
+#   url: http://dndwithpornstars.blogspot.fr/
+# # -   - title: Rachel Bonuses
+#   url: http://rachelghoulgamestuff.blogspot.fr/
+# # -   - title: Raven Crowking's Nest
+#   url: http://ravencrowking.blogspot.fr/
+# # -   - title: Red Box Vancouver's Blog
+#   url: https://redboxvancouver.wordpress.com
+# # -   - title: Rules & Rolls - classic games of fantastic adventure
+#   url: http://rolesrules.blogspot.fr/
+# # -   - title: Save vs. Dragon
+#   url: http://savevsdragon.blogspot.fr/
+# # -   - title: Save vs total party kill
+#   url: http://save.vs.totalpartykill.ca/
+# # -   - title: Secret Santicore
+#   url: http://santicore.blogspot.fr/
+# # -   - title: Semper Initiativus Unum
+#   url: http://initiativeone.blogspot.fr/
+# # -   - title: Smoldering Wizard
+#   url: https://smolderingwizard.com/
+# # -   - title: Sorcerer Under Mountain
+#   url: http://sorcererundermountain.d101games.com/
+# # -   - title: Sword +1
+#   url: http://swordplusone.blogspot.fr/) (Ruins & Ronin author blog
+# # -   - title: Sword & Scoundrel
+#   url: http://swordandscoundrel.blogspot.fr/
+# # -   - title: Swords & Stitchery
+#   url: http://swordsandstitchery.blogspot.fi
+# # -   - title: Ten Foot Polemic
+#   url: http://tenfootpolemic.blogspot.fr/
+# # -   - title: Tenkar's Tavern
+#   url: http://www.tenkarstavern.com/
+# # -   - title: The City of Iron
+#   url: http://the-city-of-iron.blogspot.fr/) (Gavin Norman: Necrotic Gnome Productions, Wormskin, B/X Essentials
+# # -   - title: The Dungeon Dozen
+#   url: http://roll1d12.blogspot.fr/
+# #     - title: Dungeon Dozen Fan Index
+#   url: http://blessingsofthedicegods.blogspot.fr/p/dungeon-dozen-fan-index.html
+# # -   - title: The Githyanki Diaspora
+#   url: https://githyankidiaspora.wordpress.com/
+# # -   - title: The Mule Abides
+#   url: https://muleabides.wordpress.com/
+# # -   - title: The OSR Library
+#   url: http://theosrlibrary.blogspot.fr/
+# # -   - title: The Other Side (Timothy Brannan)
+#   url: theotherside.timsbrannan.com/
+# # -   - title: The Vanishing Tower
+#   url: http://vanishingtower.blogspot.fr/
+# # -   - title: Trilemna
+#   url: http://blog.trilemma.com/
+# # -   - title: Trollsmyth
+#   url: http://trollsmyth.blogspot.fr/
+# # -   - title: Violent Media
+#   url: http://violentmediarpg.blogspot.fr/
+# # -   - title: Wampus County
+#   url: http://wampuscountry.blogspot.fr/
+
+# # ## Adventures
+
+# # -   - title: My Favorite of the new old school adventurers
+#   url: http://tenfootpole.org/ironspike/?page_id=844) (tenfootpole.org
+# # - About Deep Carbon Observatory :
+# #   -   - title: A Strange and Wonderful Bleakness - Deep Carbon Observatory Review 
+#   url: https://dungeonofsigns.blogspot.fr/2014/07/a-strange-and-wonderful-bleakness-deep.html
+# #   -   - title: Maps
+#   url: http://dungeonofsigns.blogspot.fr/2014/07/deep-carbon-observatory-maps.html
+# # -   - title: Modules medfan recommandés
+#   url: https://docs.google.com/spreadsheets/d/1bFDpDREtkT6JsDYjbMqPLyI-rJTUeSIAf09kyYLFlIE/edit#gid=0
+# # -   - title: Beholder Pie
+#   url: http://beholderpie.blogspot.com
+
+# # ## Dead blogs
+
+# # -   - title: Grognardia
+#   url: http://grognardia.blogspot.com/
+# # -   - title: Purpul Worm
+#   url: http://purpulpworm.blogspot.fr/
+# # -   - title: Shamsgrog
+#   url: http://shamsgrog.blogspot.fr/
+
+# # ## Forums
+
+# # -   - title: OSRGAMING forums
+#   url: www.osrgaming.org/forums/
+# # -   - title: The Common Room @ Tenkar's Tavern
+#   url: http://www.tenkarstavern.com/p/common-room.html#/
+
+# # ## Google+
+
+# # -   - title: John Payne
+#   url: https://plus.google.com/collection/kOqpb
+
+# # ## Reviews
+
+# # -   - title: dragonsfoot: index of reviews
+#   url: http://www.dragonsfoot.org/forums/viewtopic.php?f=38&t=17681
+
+# # ---
+
+# # ## Podcasts
+
+# # -   - title: The Iron Tavern
+#   url: http://irontavern.com/podcast/
+# # -   - title: Drink Spin Run
+#   url: http://www.drinkspinrun.com/
+
+# # ---
+
+# # ## Zines
+
+# # -   - title: Old School Zines
+#   url: https://rendedpress.blogspot.fr/p/old-school-zines.html) (Rended Press
+# # -   - title: RPG Zines
+#   url: http://hereticwerks.blogspot.fr/p/rpg-zines.html) (Heretic Werks
+# # -   - title: Ye Olde School Fan Magazines
+#   url: http://odd74.proboards.com/thread/5443/ye-olde-school-fan-magazines) (odd74
+
+# # -   - title: Footprints (AD&D)
+#   url: http://www.dragonsfoot.org/ft/
+# # -   - title: Gygax Magazine
+#   url: http://store.tsrgames.com/
+# # -   - title: Secret Santicore
+#   url: http://santicore.blogspot.fr/
+# # -   - title: Undercroft
+#   url: http://whatwouldconando.blogspot.fr/p/buy-stuff.html
+
+# # ---
+
+# # ## Art
+
+# # -   - title: Fuck Yeah! OSR
+#   url: http://fuckyeahosr.tumblr.com/
+# # -   - title: Meanwhile back in he dungeon
+#   url: http://meanwhilebackinthedungeon.tumblr.com
+
+# # ---
+
+# # ## Great Authors
+
+# # - Zak Smith
+# #   -   - title: Playing D&D with pornstars (Zak Smith)
+#   url: http://dndwithpornstars.blogspot.fr/
+# #   -   - title: ask.fm/TheActualZakSmith
+#   url: https://ask.fm/TheActualZakSmith
+# # - David McGrogan
+# - title: Monsters and Manuals
+#   url: http://monstersandmanuals.blogspot.fr/
+# # - Patrick Stuart
+# - title: False Machine
+#   url: http://falsemachine.blogspot.fi/
+# - title: Monster Manual Sewn From Pants
+#   url: http://monstermanualsewnfrompants.blogspot.co.nz/
+# - title: Veins of the earth Pinterest
+#   url: https://fr.pinterest.com/pjamesstuart/veins-of-the-earth/
+# # - Zzarchov Kowolski
+# #     - title: blog
+#   url: http://zzarchov.blogspot.fr/
+# # - Chris McDowall
+# #     - title: Into The Odd
+#   url: http://soogagames.blogspot.fr/
+
+# # ---
+
+# # ## Game resources
+
+# # -   - title: The Links To Wisdom - OSR House Rules Wiki
+#   url: https://campaignwiki.org/wiki/LinksToWisdom/HomePage
+
+# # ### Illustrations
+
+# # -   - title: VALL3Z GAX - Draw & Dragons 
+#   url: http://gaxix.blogspot.ca/
+# # -   - title: Freedndart
+#   url: http://freedndart.blogspot.fr/
+
+# # #### Wiki
+
+# # -   - title: OSR House Rule wiki
+#   url: https://campaignwiki.org/wiki/LinksToWisdom/HomePage
+
+# # #### French Forum threads
+
+# # -   - title: L'OSR pour les Nuls
+#   url: http://www.pandapirate.net/casus/viewtopic.php?f=24&t=27163&hilit=lotfp
+# # -   - title: Rétroclones 3: Lamentations of Swords & Sorcellerie de poche
+#   url: http://www.pandapirate.net/casus/viewtopic.php?f=24&t=23326
+# # -   - title: Rétroclones 4: C'est mieux maintenant comme on faisait avant
+#   url: http://www.pandapirate.net/casus/viewtopic.php?f=24&t=26769&hilit=lotfp
+# # -   - title: Retrocuisine et BricOSR
+#   url: http://www.pandapirate.net/casus/viewtopic.php?f=26&t=23512
+
+
+# - url: http://xyanthon.blogspot.com/
+# - url: http://joyfulsitting.blogspot.com/
+# - url: https://retiredadventurer.blogspot.com/
