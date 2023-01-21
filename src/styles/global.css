@@ -5,7 +5,6 @@
     --gray3: dimgray;
     --link-color: DarkTurquoise;
     --link-color-on: Turquoise;
-    --right-margin: 2em;
 }
 
 /*******************************************************************************
@@ -50,8 +49,8 @@ h6 {
 }
 
 ul {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
 /*******************************************************************************
@@ -71,6 +70,7 @@ a {
     color: var(--link-color);
     text-decoration: underline solid transparent;
     transition: text-decoration 0.33s ease;
+    white-space: nowrap;
 }
 
 a:hover {

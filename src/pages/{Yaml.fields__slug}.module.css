@@ -1,10 +1,40 @@
-.tags {
-    margin-bottom: 20px;
+/* TITRAILLE */
+
+.content h3 {
+    font-size: 150%;
+    margin-bottom: 1em;
 }
 
-.content {
-    border-top: 1px solid #ddd;
+.content h3:not(:first-child) {
+    margin-top: 1em;
 }
+
+.content h4 {
+    font-size: 100%;
+    margin: 1em 0;
+}
+
+/* LISTES */
+
+.content ul {
+    list-style: none !important;
+    list-style-type: none !important;
+    margin: 0 0 0 1em;
+    padding: 0;
+}
+
+.content ul>li:before {
+    color: var(--gray3);
+    content: "-";
+    position: absolute;
+    margin-left: -1.1em;
+}
+
+.content ul ul {
+    margin-left: 2em;
+}
+
+/* LIENS */
 
 .links {
     margin: 0 0.3em;
@@ -17,4 +47,11 @@
 
 .links a:hover .linkText {
     color: var(--link-color-on);
+}
+
+.rub-el-hizb {
+    color: var(--gray0);
+    font-size: 30px;
+    padding: 50px 0;
+    text-align: center;
 }

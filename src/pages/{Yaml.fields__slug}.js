@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from '../components/layout'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { content, links, linkText, tags } from './{Yaml.fields__slug}.module.css'
+import { content, links, linkText, rubElHizb } from './{Yaml.fields__slug}.module.css'
 
 let k = 0
 
@@ -125,9 +125,9 @@ function makeContent(c, depth) {
 export default function C({ data }) {
   const userContent = JSON.parse(data.yaml.fields.json)
   return (
-    <Layout pageTitle={data.yaml.title}>
-      <div className={tags}>tags: {data.yaml.tags.sort().join(", ")}</div>
+    <Layout pageTitle={data.yaml.title} taggedWith={data.yaml.tags}>
       <div className={content}>{makeContent(userContent, 0)}</div>
+      <div className={rubElHizb}>۞</div>
     </Layout>
   )
 }
