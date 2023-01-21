@@ -1,0 +1,20 @@
+.tags {
+    margin-bottom: 20px;
+}
+
+.content {
+    border-top: 1px solid #ddd;
+}
+
+.links {
+    margin: 0 0.3em;
+}
+
+.links a {
+    margin: 0 0.2em;
+    text-decoration: none;
+}
+
+.links a:hover .linkText {
+    color: var(--link-color-on);
+}

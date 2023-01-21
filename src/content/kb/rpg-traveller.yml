@@ -1,0 +1,136 @@
+title: Traveller
+tags:
+  - rpg
+  - space
+s:
+  - t: Forums
+    i:
+      - l: Citizens of the Imperium
+        u: http://www.travellerrpg.com/
+      - l: Mongoose
+        t: http://forum.mongoosepublishing.com/viewforum.php?f=89
+      - l: RPG.net Traveller tag
+        u: https://forum.rpg.net/index.php?tags/traveller-21/
+      - l: RPG.net mongoose traveller tag
+        u: https://forum.rpg.net/index.php?tags/mongoose-traveller/
+      - u: http://forums.sjgames.com/forumdisplay.php?f=16
+        l: SJG Traveller forum
+  - t: Blogs
+    i:
+      - l: Traveller
+        u: https://traveller-ct.blogspot.com/
+      - l: Alegis Downport
+        u: https://alegisdownport.wordpress.com
+      - l: Traveller Adventures
+        u: https://travellersandbox.blogspot.com/
+      - l: RockyMountain Navy Gamer
+        u: https://rockymountainnavy.com/tag/traveller/page/6/
+      - l: Jeffro's Space Gaming Blog
+        u: https://jeffro.wordpress.com/?s=traveller
+  - t: General links about Traveller
+    i:
+      - l: Traveller RPG Wiki
+        u: https://wiki.travellerrpg.com
+      - l: Traveller Map
+        u: https://travellermap.com/
+      - l: /r/
+        u: https://www.reddit.com/r/traveller/
+      - u: https://ffilz.github.io/Gaming/traveller-reading.html
+        l: Traveller Reading
+  - t: Cepheus
+    i:
+      - l: SRD
+        u: https://www.orffenspace.com/cepheus-srd/index.html
+  - t: About MgT2
+    i:
+      - l: Rules Errata and Clarifications
+        u: https://docs.google.com/document/d/1KGXOR7pGnJBv-Qx_TvFbXrndZRHg9BDMNtljJrI-t58/edit
+      - l: High Guard 2e Ship Design Spreadsheet v1.1 (Google Docs)
+        u: http://forum.mongoosepublishing.com/viewtopic.php?f=89&t=120051
+      - u: https://www.mongoosepublishing.com/downloads.htm
+  - t: About different versions
+    i:
+      - l: Differences Between Traveller5 and Mongoose Traveller?
+        u: https://forum.rpg.net/index.php?threads/differences-between-traveller5-and-mongoose-traveller.859919/
+      - l: "Traveller: New Era or Mongoose?"
+        u: https://forum.rpg.net/index.php?threads/traveller-new-era-or-mongoose.534270/
+      - l: "[Sell Me On] Mongoose Traveller 2e"
+        u: https://forum.rpg.net/index.php?threads/sell-me-on-mongoose-traveller-2e.794012/
+      - l: Classic Traveller vs Mongoose Traveller
+        u: http://forum.mongoosepublishing.com/viewtopic.php?t=41500
+      - l: Classic Traveller vs. Mongoose Traveller
+        u: https://rpgknights.com/classic-traveller-vs-mongoose-traveller/
+      - l: "#TravellerRPG Ship Combat (Mongoose 2nd Edition)"
+        u: https://rockymountainnavy.com/2016/01/25/travellerrpg-ship-combat-mongoose-2nd-edition/
+      - l: "5 Years on, how is the underlying math of \"Mongoose Traveller 2E\" holding up? (Starship and Vehicle construction rules)"
+        u: https://www.rpgpub.com/threads/5-years-on-how-is-the-underlying-math-of-mongoose-traveller-2e-holding-up-starship-and-vehicle-construction-rules.5251/#post-209311
+      - l: Sell Me On/Off Traveller or Cepheus
+        u: https://www.rpgpub.com/threads/sell-me-on-off-traveller-or-cepheus.5467/#post-221907
+  - t: Tools
+    i:
+      - l: Traveller Tools
+        u: https://travellertools.azurewebsites.net/
+      - l: Goodies
+        u: https://zhodani.space/stuff/
+  - t: Sandbox
+    i:
+      - l: Low Prep RPG Philosophy
+        u: https://strangeflight.blog/2016/11/18/low-prep-rpg-philosophy/
+      - l: Low-Prep Traveller Campaigns for Beginners
+        u: https://www.freelancetraveller.com/features/preproom/loprep.html
+      - l: How to make a Traveller Sandbox
+        u: https://batintheattic.blogspot.com/2009/04/how-to-make-traveller-sandbox.html
+      - l: "Encountering #TravellerRPG using #CepheusEngine"
+        u: https://rockymountainnavy.com/2016/11/07/encountering-travellerrpg-using-cepheusengine/
+      - l: "TRAVELLER: Out of the Box–More On the Value of Tables, Improvisation, and Lack of Plot"
+        u: https://talestoastound.wordpress.com/2016/08/05/traveller-out-of-the-box-more-on-the-value-of-tables-improvisation-and-lack-of-plot/
+  - t: The Third Imperium
+    i:
+      - l: "From TRAVELLER: Out of the Box to the Third Imperium"
+        u: https://talestoastound.wordpress.com/2017/03/31/from-traveller-out-of-the-box-to-the-third-imperium/
+      - l: "Traveller Theme 1: Proto-Traveller"
+        u: http://www.travellerrpg.com/CotI/Discuss/showthread.php?t=36120
+  - t: Publishers
+    i:
+      - l: Zozer Games
+        links:
+          - u: https://www.drivethrurpg.com/browse/pub/3743/Zozer-Games
+      - l: Samardan Press
+        u: https://www.drivethrurpg.com/browse/pub/3066/Samardan-Press
+      - l: Moon Toad Publishing
+        links:
+          - u: https://www.drivethrurpg.com/browse/pub/5791/Moon-Toad-Publishing
+      - l: Stellagama
+        links:
+          - u: https://www.drivethrurpg.com/browse/pub/9571/Stellagama-Publishing
+  - t: Rules analysis
+    i:
+      - l: Skills in Classic Traveller High Guard
+        u: https://rockymountainnavy.com/2013/01/24/rpg-thursday-skills-in-classic-traveller-high-guard/
+      - l: "#traveller Take on Rules"
+        u: https://takeonrules.com/tags/traveller/
+  - t: Zines
+    i:
+      - l: Freelance Traveller
+        u: https://www.freelancetraveller.com/magazine/index.html
+  - t: Playing & refereeing Traveller
+    i:
+      - l: Your Non "Freetrader" Traveller Campaign?
+        u: https://forum.rpg.net/index.php?threads/your-non-freetrader-traveller-campaign.618368/
+      - l: "Freelance Traveller: The Prep Room"
+        u: https://www.freelancetraveller.com/features/preproom/index.html
+  - t: Podcasts
+    i:
+      - u: http://behindtheclaw.blogspot.com/
+      - u: https://mnh.podbean.com/
+      - u: https://archive.org/details/CloseTheAirlock/
+  - t: Appendix N
+    i:
+      - u: https://www.therpgsite.com/pen-paper-roleplaying-games-rpgs-discussion/what-should-be-in-the-appendix-n-for-traveller/
+  - t: World creation & UWP
+    i:
+      - u: https://www.freelancetraveller.com/features/rules/expuwp/index.html
+      - u: https://forum.rpg.net/index.php?threads/traveller-sexing-up-world-creation.432623/
+      - u: http://forum.mongoosepublishing.com/viewtopic.php?t=86660
+      - u: https://www.freelancetraveller.com/features/preproom/adaptaccrete.html
+      - u: https://www.freelancetraveller.com/features/preproom/3ialts.html

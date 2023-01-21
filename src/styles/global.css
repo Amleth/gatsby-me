@@ -1,0 +1,79 @@
+:root {
+    --gray0: #ddd;
+    --gray1: silver;
+    --gray2: gray;
+    --gray3: dimgray;
+    --link-color: DarkTurquoise;
+    --link-color-on: Turquoise;
+    --right-margin: 2em;
+}
+
+/*******************************************************************************
+RESET
+*******************************************************************************/
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+a,
+a:visited {
+    color: var(--link-color);
+    cursor: default;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--link-color-on);
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+/*******************************************************************************
+TYPOGRAPHY
+*******************************************************************************/
+
+@font-face {
+    font-family: "AHAMONO-Regular";
+    src: url("AHAMONO-Regular.woff") format("woff");
+}
+
+html {
+    font-family: "AHAMONO-Regular", monospace;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: underline solid transparent;
+    transition: text-decoration 0.33s ease;
+}
+
+a:hover {
+    text-decoration: underline solid currentColor;
+    transition: text-decoration 0s ease;
+}

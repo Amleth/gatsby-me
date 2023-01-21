@@ -44,5 +44,15 @@ module.exports = {
       },
       __key: "kb"
     },
+    {
+      resolve: `gatsby-transformer-yaml`,
+      options: { typeName: `Yaml` },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/content/kb/`,
+      },
+    },
   ]
 };
