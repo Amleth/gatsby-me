@@ -6,6 +6,18 @@ tags:
 s:
   - t: Artists
     i:
+      - l: Acid arab
+        links:
+          - u: https://www.youtube.com/watch?v=COZTxBagQGw
+          - u: https://www.radiofrance.fr/franceculture/podcasts/par-les-temps-qui-courent/guido-minisky-la-fete-ne-se-questionne-pas-elle-se-vit-6888028
+      - l: Anthony Sahyoun
+        u: https://www.anthonysahyoun.com/
+        sc: https://soundcloud.com/asahyoun
+      - l: Cheb Gero
+        sc: https://soundcloud.com/cheb-gero
+      - l: Deena Abdelwahed
+        sc: https://soundcloud.com/deenaabdelwahed
+        bc: https://deenabdelwahed.bandcamp.com/
       - l: Faten Kanaan
         url: https://fatenkanaan.com
         bc: https://fatenkanaan.bandcamp.com/music
@@ -15,11 +27,40 @@ s:
         bc: https://frktl.bandcamp.com/music
       - l: Jad Atoui
         sc: https://soundcloud.com/jad-atoui
+      - l: Ko Shin Moon
+        yt: https://www.youtube.com/channel/UCjWG26TzafM2Pvj-hoQOHiQ
       - l: Marc Codsi
         bc: https://marccodsi.bandcamp.com/music
         sc: https://soundcloud.com/marc-codsi
         sp: https://open.spotify.com/artist/0cmKDW4bwCzWaJOvpzDPZi
+      - l: Muslimgauze
+      - l: Raed Yassin
+        bc: https://raedyassin.bandcamp.com/
+      - l: Sofiane Saidi
+        links:
+          - u: https://www.youtube.com/watch?v=iyfUI_scAD8
+      - l: Ziad Nawfal
+        links:
+          - u: https://www.mixcloud.com/ziad-michel-nawfal/
+
+  - t: Radios
+    i:
+      - u: https://www.dublab.com/
+  - t: Labels
+    i:
+      - l: Ruptured
+        u: https://rupturedonline.com/
+        bc: https://rupturedthelabel.bandcamp.com/
+        in: https://www.instagram.com/rupturedthelabel/?hl=en
+        sc: https://soundcloud.com/ruptured
+        yt: https://www.youtube.com/@rupturedthelabel
+        links:
+          - u: https://play.anghami.com/profile/76489862?bid=%2Fg1QOqsuIK8
   - t: Videos
     i:
       - yt: https://www.youtube.com/watch?v=TXsNk03ygD4
         l: "CTM 2021: »Apotome Live«"
+  - t: Places
+    i:
+      - u: https://www.facebook.com/RiwaqBeirut/
+      - u: https://beirutartcenter.org/
