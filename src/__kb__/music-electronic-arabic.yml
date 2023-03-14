@@ -18,6 +18,9 @@ s:
       - l: Deena Abdelwahed
         sc: https://soundcloud.com/deenaabdelwahed
         bc: https://deenabdelwahed.bandcamp.com/
+        links:
+          - u: https://www.youtube.com/watch?v=32wWI_OMuYs
+            l: Deena Abdelwahed / Concert Ircam
       - l: Faten Kanaan
         url: https://fatenkanaan.com
         bc: https://fatenkanaan.bandcamp.com/music
@@ -46,6 +49,7 @@ s:
   - t: Radios
     i:
       - u: https://www.dublab.com/
+      - u: https://www.mixcloud.com/RadioAlhara/
   - t: Labels
     i:
       - l: Ruptured
